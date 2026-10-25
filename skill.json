@@ -2,22 +2,22 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 484,
-  "fav_win": 0.56,
-  "pick_hit": 0.248,
-  "pick_return": 0.753,
-  "bet_races": 128,
-  "bet_pnl": -5420
+  "races": 485,
+  "fav_win": 0.561,
+  "pick_hit": 0.249,
+  "pick_return": 0.754,
+  "bet_races": 129,
+  "bet_pnl": -5520
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 448,
-  "fav_win": 0.56,
-  "pick_hit": 0.248,
-  "pick_return": 0.754,
-  "bet_races": 113,
-  "bet_pnl": -3220
+  "races": 449,
+  "fav_win": 0.561,
+  "pick_hit": 0.249,
+  "pick_return": 0.755,
+  "bet_races": 114,
+  "bet_pnl": -3320
  },
  {
   "axis": "使ったモデル",
@@ -52,12 +52,12 @@
  {
   "axis": "買った券種",
   "name": "2連複",
-  "races": 24,
-  "fav_win": 0.708,
-  "pick_hit": 0.417,
-  "pick_return": 1.647,
-  "bet_races": 24,
-  "bet_pnl": 1050
+  "races": 25,
+  "fav_win": 0.72,
+  "pick_hit": 0.44,
+  "pick_return": 1.624,
+  "bet_races": 25,
+  "bet_pnl": 950
  },
  {
   "axis": "買った券種",
@@ -82,32 +82,32 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 453,
-  "fav_win": 0.556,
-  "pick_hit": 0.249,
-  "pick_return": 0.763,
+  "races": 454,
+  "fav_win": 0.557,
+  "pick_hit": 0.251,
+  "pick_return": 0.764,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 453,
-  "fav_win": 0.556,
-  "pick_hit": 0.19,
-  "pick_return": 0.712,
+  "races": 454,
+  "fav_win": 0.557,
+  "pick_hit": 0.192,
+  "pick_return": 0.713,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 232,
-  "fav_win": 0.69,
-  "pick_hit": 0.289,
-  "pick_return": 0.834,
-  "bet_races": 46,
-  "bet_pnl": -2330
+  "races": 233,
+  "fav_win": 0.691,
+  "pick_hit": 0.292,
+  "pick_return": 0.835,
+  "bet_races": 47,
+  "bet_pnl": -2430
  },
  {
   "axis": "本命の強さ",
@@ -132,12 +132,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 436,
-  "fav_win": 0.58,
-  "pick_hit": 0.257,
+  "races": 437,
+  "fav_win": 0.581,
+  "pick_hit": 0.259,
   "pick_return": 0.755,
-  "bet_races": 116,
-  "bet_pnl": -4360
+  "bet_races": 117,
+  "bet_pnl": -4460
  },
  {
   "axis": "本命の枠",
@@ -162,12 +162,12 @@
  {
   "axis": "場",
   "name": "若松",
-  "races": 41,
-  "fav_win": 0.488,
-  "pick_hit": 0.244,
-  "pick_return": 0.525,
-  "bet_races": 7,
-  "bet_pnl": 150
+  "races": 42,
+  "fav_win": 0.5,
+  "pick_hit": 0.262,
+  "pick_return": 0.538,
+  "bet_races": 8,
+  "bet_pnl": 50
  },
  {
   "axis": "場",
