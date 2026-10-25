@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>紙上運用</title>
+<style>
+/* 1列のスマホ向け。上に数字、下に表。データは同じフォルダの JSON（PC が10分ごとに上げ直す） */
+:root { --bg:#f3f5f8; --panel:#fff; --fg:#17202e; --muted:#5d6878; --line:#d8dde6; --ok:#137a4b; --bad:#b4232c; --warn:#a15c00; --accent:#1f5fae; color-scheme:light; }
+@media (prefers-color-scheme: dark) { :root { --bg:#10141b; --panel:#181e28; --fg:#e7ebf2; --muted:#98a3b5; --line:#2b3442; --ok:#4cc38a; --bad:#f07178; --warn:#e2a54a; --accent:#7fb0f0; color-scheme:dark; } }
+body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.55 system-ui,"Hiragino Sans","Yu Gothic",sans-serif; }
+.wrap { max-width:60rem; margin:0 auto; padding-block:1.2rem 3rem; padding-left:max(16px,env(safe-area-inset-left,0px)); padding-right:max(16px,env(safe-area-inset-right,0px)); display:flex; flex-direction:column; gap:1rem; }
+h1 { margin:0; font-size:1.5rem; } h2 { margin:0 0 .4rem; font-size:1.05rem; }
+.sub { color:var(--muted); font-size:.85rem; margin:.2rem 0 0; }
+.tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(9rem,1fr)); gap:.6rem; }
+.tile, .card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:.8rem; min-width:0; }
+.tile .lb { font-size:.78rem; color:var(--muted); } .tile .v { font-size:1.4rem; font-variant-numeric:tabular-nums; }
+.pos { color:var(--ok); } .neg { color:var(--bad); }
+.tw { overflow-x:auto; max-height:28rem; overflow-y:auto; }
+table { border-collapse:collapse; width:100%; font-variant-numeric:tabular-nums; }
+th, td { text-align:left; padding:.3rem .45rem; border-bottom:1px solid var(--line); vertical-align:top; }
+th { position:sticky; top:0; background:var(--panel); font-size:.78rem; color:var(--muted); white-space:nowrap; }
+td.n, th.n { text-align:right; white-space:nowrap; } td.nw { white-space:nowrap; } td.b { min-width:12rem; }
+.chip { font-size:.75rem; border:1px solid var(--warn); color:var(--warn); border-radius:4px; padding:0 .3rem; white-space:nowrap; }
+.note { color:var(--muted); font-size:.8rem; margin:0 0 .5rem; }
+svg text { fill:var(--muted); font-size:11px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div><h1 id="title">紙上運用</h1><p class="sub" id="upd">読み込み中…</p></div>
+  <div class="tiles">
+    <div class="tile"><div class="lb">現在の資金</div><div class="v" id="t-bank">—</div></div>
+    <div class="tile"><div class="lb">今日の収支</div><div class="v" id="t-pnl">—</div></div>
+    <div class="tile"><div class="lb">結果待ちの賭け金</div><div class="v" id="t-play">—</div></div>
+    <div class="tile"><div class="lb">的中 / 賭けたレース</div><div class="v" id="t-hit">—</div></div>
+  </div>
+  <div class="card"><h2>資金の推移</h2><div id="chart"></div></div>
+  <div class="card"><h2>これから賭ける予定</h2><p class="note">締切30分前から見直し、締切5分前に確定</p>
+    <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>状態</th><th>買い目</th><th>予想（参考3点）</th></tr></thead><tbody id="plan"></tbody></table></div></div>
+  <div class="card"><h2>確定したレース</h2><p class="note">新しい順</p>
+    <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>買い目</th><th>結果</th><th class="n">収支</th><th class="n">資金</th></tr></thead><tbody id="done"></tbody></table></div></div>
+  <div class="card"><h2>私 vs ポセイドン（3連単3点ずつの回収率）</h2>
+    <div class="tiles" style="margin-bottom:.6rem"><div class="tile"><div class="lb">私（今日）</div><div class="v" id="vs-me">—</div></div><div class="tile"><div class="lb">ポセイドン（今日）</div><div class="v" id="vs-pos">—</div></div></div>
+    <p class="note" id="vs-note"></p>
+    <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>結果</th><th>私の3点</th><th class="n">私</th><th>ポセイドンの3点</th><th class="n">ポセイドン</th></tr></thead><tbody id="vs"></tbody></table></div></div>
+  <div class="card"><h2>得意・不得意（10/22からの累計）</h2>
+    <div class="tw"><table><thead><tr><th>分け方</th><th>条件</th><th class="n">レース</th><th class="n">本命1着率</th><th class="n">参考3点回収率</th><th class="n">実際の収支</th></tr></thead><tbody id="skill"></tbody></table></div></div>
+</div>
+<script>
+const yen = n => Number(n).toLocaleString("ja-JP") + "円";
+const signed = n => (n > 0 ? "+" : n < 0 ? "−" : "±") + Math.abs(n).toLocaleString("ja-JP") + "円";
+const pct = v => Math.round(Number(v) * 100) + "%";
+const cls = n => n > 0 ? "pos" : n < 0 ? "neg" : "";
+function set(id, txt, c) { const e = document.getElementById(id); e.textContent = txt; e.className = "v " + (c || ""); }
+function rows(id, list, cells) {
+  const tb = document.getElementById(id); tb.textContent = "";
+  list.forEach(d => { const tr = document.createElement("tr");
+    cells(d).forEach(([t, c, chip]) => { const td = document.createElement("td"); if (c) td.className = c;
+      if (chip) { const s = document.createElement("span"); s.className = "chip"; s.textContent = t; td.appendChild(s); } else td.textContent = t;
+      tr.appendChild(td); }); tb.appendChild(tr); });
+}
+function chart(init, pts) {
+  const box = document.getElementById("chart"), W = Math.max(box.clientWidth, 280), H = 180, L = 46, R = 10, T = 10, B = 10;
+  const vs = [init, ...pts], lo = Math.min(...vs), hi = Math.max(...vs), pad = Math.max(300, (hi - lo) * .15);
+  const y = v => T + (H - T - B) * (1 - (v - (lo - pad)) / (hi - lo + 2 * pad)), x = i => L + (W - L - R) * i / Math.max(1, vs.length - 1);
+  let s = `<svg width="100%" viewBox="0 0 ${W} ${H}">`;
+  [lo - pad / 2, (lo + hi) / 2, hi + pad / 2].forEach(v => { s += `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/><text x="${L - 4}" y="${y(v) + 4}" text-anchor="end">${Math.round(v).toLocaleString()}</text>`; });
+  s += `<line x1="${L}" x2="${W - R}" y1="${y(init)}" y2="${y(init)}" stroke="var(--muted)" stroke-dasharray="4 4"/>`;
+  s += `<polyline fill="none" stroke="var(--accent)" stroke-width="2" points="${vs.map((v, i) => x(i) + "," + y(v)).join(" ")}"/></svg>`;
+  box.innerHTML = s;
+}
+async function load() {
+  try {
+    const q = "?t=" + Date.now();
+    const [s, r, k] = await Promise.all(["summary", "races", "skill"].map(n => fetch(n + ".json" + q).then(x => x.json())));
+    const x = s[0], hd = String(x.hd);
+    document.getElementById("title").textContent = `紙上運用 ${+hd.slice(4, 6)}/${+hd.slice(6, 8)} 全場`;
+    const left = x.races_total - x.races_settled;
+    document.getElementById("upd").textContent = `${x.updated} 時点。${left > 0 ? "残り" + left + "レース" : "全レース確定"}（ページは1分ごとに読み直します）`;
+    set("t-bank", yen(x.bankroll)); set("t-pnl", signed(x.pnl), cls(x.pnl)); set("t-play", yen(x.in_play)); set("t-hit", `${x.hits} / ${x.races_bet}`);
+    set("vs-me", pct(x.vs_me_ret), x.vs_me_ret >= 1 ? "pos" : "neg"); set("vs-pos", pct(x.vs_pos_ret), x.vs_pos_ret >= 1 ? "pos" : "neg");
+    const done = r.filter(d => d.status === "確定");
+    chart(x.initial, done.map(d => Number(d.bankroll_after)));
+    rows("plan", r.filter(d => d.status === "予想中" || d.status === "投票済み"), d => [[d.deadline, "nw"], [d.race, "nw"], [d.status, null, d.status === "予想中"], [d.bets || "—", "b"], [d.pick || "—", "b"]]);
+    rows("done", done.slice().reverse(), d => [[d.deadline, "nw"], [d.race, "nw"], [d.bets || "—", "b"], [`${d.result || "—"} ${d.result_odds || ""}${d.hit ? "（" + d.hit + "）" : ""}`, "nw " + (d.hit === "的中" ? "pos" : "")], [signed(d.pnl), "n " + cls(d.pnl)], [d.bankroll_after === "" ? "—" : yen(d.bankroll_after), "n"]]);
+    rows("vs", done.filter(d => d.vs).reverse(), d => [[d.deadline, "nw"], [d.race, "nw"], [`${d.result} ${d.result_odds || ""}`, "nw"], [d.my3, "nw"], [signed(d.my_pnl), "n " + cls(d.my_pnl)], [d.pos3, "nw"], [signed(d.pos_pnl), "n " + cls(d.pos_pnl)]]);
+    const m = k.find(d => d.name === "私の参考3点"), p = k.find(d => d.name === "ポセイドン上位3点");
+    document.getElementById("vs-note").textContent = m && p ? `10/22からの累計（${m.races}R）の回収率：私 ${pct(m.pick_return)}・ポセイドン ${pct(p.pick_return)}` : "";
+    rows("skill", k, d => [[d.axis, "nw"], [d.name, "nw"], [d.races, "n"], [pct(d.fav_win), "n"], [pct(d.pick_return), "n " + (d.pick_return >= 1 ? "pos" : "")], [d.bet_races ? `${signed(d.bet_pnl)}（${d.bet_races}R）` : "—", "n " + cls(d.bet_pnl)]]);
+  } catch (e) { document.getElementById("upd").textContent = "データを読み込めませんでした。少し待って再読み込みしてください。"; }
+}
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>
