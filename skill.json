@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 466,
-  "fav_win": 0.56,
-  "pick_hit": 0.242,
-  "pick_return": 0.749,
+  "races": 468,
+  "fav_win": 0.558,
+  "pick_hit": 0.241,
+  "pick_return": 0.745,
   "bet_races": 127,
   "bet_pnl": -5320
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 430,
-  "fav_win": 0.56,
-  "pick_hit": 0.242,
-  "pick_return": 0.749,
+  "races": 432,
+  "fav_win": 0.558,
+  "pick_hit": 0.241,
+  "pick_return": 0.746,
   "bet_races": 112,
   "bet_pnl": -3120
  },
@@ -82,20 +82,20 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 435,
-  "fav_win": 0.556,
-  "pick_hit": 0.244,
-  "pick_return": 0.758,
+  "races": 437,
+  "fav_win": 0.554,
+  "pick_hit": 0.243,
+  "pick_return": 0.755,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 435,
-  "fav_win": 0.556,
-  "pick_hit": 0.184,
-  "pick_return": 0.704,
+  "races": 437,
+  "fav_win": 0.554,
+  "pick_hit": 0.183,
+  "pick_return": 0.701,
   "bet_races": 0,
   "bet_pnl": 0
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 136,
-  "fav_win": 0.522,
-  "pick_hit": 0.257,
-  "pick_return": 0.747,
+  "races": 138,
+  "fav_win": 0.514,
+  "pick_hit": 0.254,
+  "pick_return": 0.736,
   "bet_races": 54,
   "bet_pnl": -1370
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 418,
-  "fav_win": 0.581,
-  "pick_hit": 0.251,
-  "pick_return": 0.75,
+  "races": 420,
+  "fav_win": 0.579,
+  "pick_hit": 0.25,
+  "pick_return": 0.746,
   "bet_races": 115,
   "bet_pnl": -4260
  },
@@ -181,6 +181,16 @@
  },
  {
   "axis": "場",
+  "name": "若松",
+  "races": 35,
+  "fav_win": 0.514,
+  "pick_hit": 0.229,
+  "pick_return": 0.531,
+  "bet_races": 7,
+  "bet_pnl": 150
+ },
+ {
+  "axis": "場",
   "name": "浜名湖",
   "races": 34,
   "fav_win": 0.559,
@@ -188,16 +198,6 @@
   "pick_return": 0.475,
   "bet_races": 11,
   "bet_pnl": -450
- },
- {
-  "axis": "場",
-  "name": "若松",
-  "races": 34,
-  "fav_win": 0.529,
-  "pick_hit": 0.235,
-  "pick_return": 0.547,
-  "bet_races": 7,
-  "bet_pnl": 150
  },
  {
   "axis": "場",
@@ -322,10 +322,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 6,
-  "fav_win": 0.5,
-  "pick_hit": 0.333,
-  "pick_return": 0.994,
+  "races": 7,
+  "fav_win": 0.429,
+  "pick_hit": 0.286,
+  "pick_return": 0.852,
   "bet_races": 0,
   "bet_pnl": 0
  },
