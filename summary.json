@@ -2,18 +2,18 @@
  {
   "hd": "20261026",
   "initial": 4280,
-  "bankroll": 4950,
-  "pnl": 670,
-  "in_play": 300,
+  "bankroll": 4750,
+  "pnl": 470,
+  "in_play": 200,
   "races_total": 144,
-  "races_settled": 98,
-  "races_bet": 12,
+  "races_settled": 100,
+  "races_bet": 13,
   "hits": 2,
-  "vs_races": 92,
+  "vs_races": 94,
   "vs_me": 23,
   "vs_pos": 15,
-  "vs_me_ret": 0.833,
-  "vs_pos_ret": 0.719,
-  "updated": "2026-10-26 15:36"
+  "vs_me_ret": 0.815,
+  "vs_pos_ret": 0.704,
+  "updated": "2026-10-26 15:46"
  }
 ]
