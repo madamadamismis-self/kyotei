@@ -6,14 +6,14 @@
   "pnl": -500,
   "in_play": 0,
   "races_total": 144,
-  "races_settled": 13,
+  "races_settled": 16,
   "races_bet": 4,
   "hits": 0,
-  "vs_races": 13,
-  "vs_me": 3,
-  "vs_pos": 1,
-  "vs_me_ret": 0.577,
-  "vs_pos_ret": 0.272,
-  "updated": "2026-10-26 10:46"
+  "vs_races": 16,
+  "vs_me": 5,
+  "vs_pos": 2,
+  "vs_me_ret": 0.875,
+  "vs_pos_ret": 0.365,
+  "updated": "2026-10-26 10:56"
  }
 ]
