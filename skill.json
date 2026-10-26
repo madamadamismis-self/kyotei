@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 600,
-  "fav_win": 0.552,
+  "races": 601,
+  "fav_win": 0.551,
   "pick_hit": 0.253,
-  "pick_return": 0.771,
+  "pick_return": 0.77,
   "bet_races": 144,
   "bet_pnl": -4940
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 564,
-  "fav_win": 0.551,
-  "pick_hit": 0.254,
-  "pick_return": 0.773,
+  "races": 565,
+  "fav_win": 0.55,
+  "pick_hit": 0.253,
+  "pick_return": 0.771,
   "bet_races": 129,
   "bet_pnl": -2740
  },
@@ -82,30 +82,30 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 569,
-  "fav_win": 0.548,
-  "pick_hit": 0.255,
-  "pick_return": 0.779,
+  "races": 570,
+  "fav_win": 0.547,
+  "pick_hit": 0.254,
+  "pick_return": 0.778,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 569,
-  "fav_win": 0.548,
-  "pick_hit": 0.19,
-  "pick_return": 0.73,
+  "races": 570,
+  "fav_win": 0.547,
+  "pick_hit": 0.189,
+  "pick_return": 0.729,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 276,
-  "fav_win": 0.685,
-  "pick_hit": 0.304,
-  "pick_return": 0.847,
+  "races": 277,
+  "fav_win": 0.682,
+  "pick_hit": 0.303,
+  "pick_return": 0.844,
   "bet_races": 57,
   "bet_pnl": -2330
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 540,
-  "fav_win": 0.57,
-  "pick_hit": 0.263,
-  "pick_return": 0.779,
+  "races": 541,
+  "fav_win": 0.569,
+  "pick_hit": 0.262,
+  "pick_return": 0.778,
   "bet_races": 132,
   "bet_pnl": -3880
  },
@@ -331,6 +331,16 @@
  },
  {
   "axis": "場",
+  "name": "丸亀",
+  "races": 5,
+  "fav_win": 0.2,
+  "pick_hit": 0.0,
+  "pick_return": 0.0,
+  "bet_races": 0,
+  "bet_pnl": 0
+ },
+ {
+  "axis": "場",
   "name": "江戸川",
   "races": 4,
   "fav_win": 0.5,
@@ -348,15 +358,5 @@
   "pick_return": 0.583,
   "bet_races": 2,
   "bet_pnl": -200
- },
- {
-  "axis": "場",
-  "name": "丸亀",
-  "races": 4,
-  "fav_win": 0.25,
-  "pick_hit": 0.0,
-  "pick_return": 0.0,
-  "bet_races": 0,
-  "bet_pnl": 0
  }
 ]
