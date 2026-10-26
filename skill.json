@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 617,
-  "fav_win": 0.553,
-  "pick_hit": 0.258,
-  "pick_return": 0.767,
+  "races": 618,
+  "fav_win": 0.552,
+  "pick_hit": 0.257,
+  "pick_return": 0.766,
   "bet_races": 146,
   "bet_pnl": -4660
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 581,
+  "races": 582,
   "fav_win": 0.552,
   "pick_hit": 0.258,
-  "pick_return": 0.769,
+  "pick_return": 0.768,
   "bet_races": 131,
   "bet_pnl": -2460
  },
@@ -82,20 +82,20 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 586,
+  "races": 587,
   "fav_win": 0.549,
   "pick_hit": 0.259,
-  "pick_return": 0.776,
+  "pick_return": 0.774,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 586,
+  "races": 587,
   "fav_win": 0.549,
   "pick_hit": 0.193,
-  "pick_return": 0.721,
+  "pick_return": 0.72,
   "bet_races": 0,
   "bet_pnl": 0
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 189,
-  "fav_win": 0.529,
-  "pick_hit": 0.27,
-  "pick_return": 0.744,
+  "races": 190,
+  "fav_win": 0.526,
+  "pick_hit": 0.268,
+  "pick_return": 0.74,
   "bet_races": 60,
   "bet_pnl": -990
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 555,
-  "fav_win": 0.569,
+  "races": 556,
+  "fav_win": 0.568,
   "pick_hit": 0.268,
-  "pick_return": 0.778,
+  "pick_return": 0.777,
   "bet_races": 134,
   "bet_pnl": -3600
  },
@@ -302,10 +302,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 21,
-  "fav_win": 0.571,
-  "pick_hit": 0.333,
-  "pick_return": 0.856,
+  "races": 22,
+  "fav_win": 0.545,
+  "pick_hit": 0.318,
+  "pick_return": 0.817,
   "bet_races": 0,
   "bet_pnl": 0
  },
