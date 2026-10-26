@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 606,
-  "fav_win": 0.553,
+  "races": 607,
+  "fav_win": 0.554,
   "pick_hit": 0.257,
-  "pick_return": 0.774,
+  "pick_return": 0.773,
   "bet_races": 145,
   "bet_pnl": -5040
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 570,
+  "races": 571,
   "fav_win": 0.553,
-  "pick_hit": 0.258,
-  "pick_return": 0.776,
+  "pick_hit": 0.257,
+  "pick_return": 0.775,
   "bet_races": 130,
   "bet_pnl": -2840
  },
@@ -82,20 +82,20 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 575,
+  "races": 576,
   "fav_win": 0.55,
   "pick_hit": 0.259,
-  "pick_return": 0.783,
+  "pick_return": 0.781,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 575,
+  "races": 576,
   "fav_win": 0.55,
   "pick_hit": 0.191,
-  "pick_return": 0.727,
+  "pick_return": 0.726,
   "bet_races": 0,
   "bet_pnl": 0
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 141,
-  "fav_win": 0.312,
-  "pick_hit": 0.135,
-  "pick_return": 0.648,
+  "races": 142,
+  "fav_win": 0.317,
+  "pick_hit": 0.134,
+  "pick_return": 0.644,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -142,10 +142,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 60,
-  "fav_win": 0.383,
-  "pick_hit": 0.167,
-  "pick_return": 0.694,
+  "races": 61,
+  "fav_win": 0.393,
+  "pick_hit": 0.164,
+  "pick_return": 0.683,
   "bet_races": 12,
   "bet_pnl": -1060
  },
@@ -332,8 +332,8 @@
  {
   "axis": "場",
   "name": "丸亀",
-  "races": 6,
-  "fav_win": 0.167,
+  "races": 7,
+  "fav_win": 0.286,
   "pick_hit": 0.0,
   "pick_return": 0.0,
   "bet_races": 0,
