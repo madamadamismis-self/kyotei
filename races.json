@@ -2083,32 +2083,32 @@
   "race": "大村 12R",
   "venue": "大村",
   "deadline": "20:40",
-  "status": "投票済み",
+  "status": "確定",
   "bets": "見送り",
   "pick": "本命1号艇（70%）・1-2-4（7.7倍） / 1-2-3（7.6倍） / 1-4-2（12.7倍）",
   "pick_hit": "",
   "stake": 0,
-  "result": "",
-  "result_odds": "",
+  "result": "2-4-3",
+  "result_odds": "209.5倍・50番人気",
   "hit": "",
   "payout": 0,
   "pnl": 0,
-  "bankroll_after": ""
+  "bankroll_after": 5280
  },
  {
   "race": "桐生 12R",
   "venue": "桐生",
   "deadline": "20:45",
-  "status": "投票済み",
+  "status": "確定",
   "bets": "見送り",
   "pick": "本命1号艇（54%）・1-3-2（4.6倍） / 1-2-3（5.1倍） / 3-1-2（17.8倍）",
   "pick_hit": "",
   "stake": 0,
-  "result": "",
-  "result_odds": "",
+  "result": "1-6-3",
+  "result_odds": "77.7倍・19番人気",
   "hit": "",
   "payout": 0,
   "pnl": 0,
-  "bankroll_after": ""
+  "bankroll_after": 5280
  }
 ]
