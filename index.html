@@ -41,10 +41,6 @@ svg text { fill:var(--muted); font-size:11px; }
     <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>状態</th><th>買い目</th><th>予想（参考3点）</th></tr></thead><tbody id="plan"></tbody></table></div></div>
   <div class="card"><h2>確定したレース</h2><p class="note">新しい順</p>
     <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>買い目</th><th>結果</th><th class="n">収支</th><th class="n">資金</th></tr></thead><tbody id="done"></tbody></table></div></div>
-  <div class="card"><h2>私 vs ポセイドン（3連単3点ずつの回収率）</h2>
-    <div class="tiles" style="margin-bottom:.6rem"><div class="tile"><div class="lb">私（今日）</div><div class="v" id="vs-me">—</div></div><div class="tile"><div class="lb">ポセイドン（今日）</div><div class="v" id="vs-pos">—</div></div></div>
-    <p class="note" id="vs-note"></p>
-    <div class="tw"><table><thead><tr><th>締切</th><th>レース</th><th>結果</th><th>私の3点</th><th class="n">私</th><th>ポセイドンの3点</th><th class="n">ポセイドン</th></tr></thead><tbody id="vs"></tbody></table></div></div>
   <div class="card"><h2>得意・不得意（10/22からの累計）</h2>
     <div class="tw"><table><thead><tr><th>分け方</th><th>条件</th><th class="n">レース</th><th class="n">本命1着率</th><th class="n">参考3点回収率</th><th class="n">実際の収支</th></tr></thead><tbody id="skill"></tbody></table></div></div>
 </div>
@@ -80,14 +76,10 @@ async function load() {
     const left = x.races_total - x.races_settled;
     document.getElementById("upd").textContent = `${x.updated} 時点。${left > 0 ? "残り" + left + "レース" : "全レース確定"}（ページは1分ごとに読み直します）`;
     set("t-bank", yen(x.bankroll)); set("t-pnl", signed(x.pnl), cls(x.pnl)); set("t-play", yen(x.in_play)); set("t-hit", `${x.hits} / ${x.races_bet}`);
-    set("vs-me", pct(x.vs_me_ret), x.vs_me_ret >= 1 ? "pos" : "neg"); set("vs-pos", pct(x.vs_pos_ret), x.vs_pos_ret >= 1 ? "pos" : "neg");
     const done = r.filter(d => d.status === "確定");
     chart(x.initial, done.map(d => Number(d.bankroll_after)));
     rows("plan", r.filter(d => d.status === "予想中" || d.status === "投票済み"), d => [[d.deadline, "nw"], [d.race, "nw"], [d.status, null, d.status === "予想中"], [d.bets || "—", "b"], [d.pick || "—", "b"]]);
     rows("done", done.slice().reverse(), d => [[d.deadline, "nw"], [d.race, "nw"], [d.bets || "—", "b"], [`${d.result || "—"} ${d.result_odds || ""}${d.hit ? "（" + d.hit + "）" : ""}`, "nw " + (d.hit === "的中" ? "pos" : "")], [signed(d.pnl), "n " + cls(d.pnl)], [d.bankroll_after === "" ? "—" : yen(d.bankroll_after), "n"]]);
-    rows("vs", done.filter(d => d.vs).reverse(), d => [[d.deadline, "nw"], [d.race, "nw"], [`${d.result} ${d.result_odds || ""}`, "nw"], [d.my3, "nw"], [signed(d.my_pnl), "n " + cls(d.my_pnl)], [d.pos3, "nw"], [signed(d.pos_pnl), "n " + cls(d.pos_pnl)]]);
-    const m = k.find(d => d.name === "私の参考3点"), p = k.find(d => d.name === "ポセイドン上位3点");
-    document.getElementById("vs-note").textContent = m && p ? `10/22からの累計（${m.races}R）の回収率：私 ${pct(m.pick_return)}・ポセイドン ${pct(p.pick_return)}` : "";
     rows("skill", k, d => [[d.axis, "nw"], [d.name, "nw"], [d.races, "n"], [pct(d.fav_win), "n"], [pct(d.pick_return), "n " + (d.pick_return >= 1 ? "pos" : "")], [d.bet_races ? `${signed(d.bet_pnl)}（${d.bet_races}R）` : "—", "n " + cls(d.bet_pnl)]]);
   } catch (e) { document.getElementById("upd").textContent = "データを読み込めませんでした。少し待って再読み込みしてください。"; }
 }
