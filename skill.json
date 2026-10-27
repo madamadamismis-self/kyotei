@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 626,
-  "fav_win": 0.556,
-  "pick_hit": 0.259,
-  "pick_return": 0.768,
+  "races": 627,
+  "fav_win": 0.555,
+  "pick_hit": 0.258,
+  "pick_return": 0.767,
   "bet_races": 148,
   "bet_pnl": -4550
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 590,
-  "fav_win": 0.556,
+  "races": 591,
+  "fav_win": 0.555,
   "pick_hit": 0.259,
-  "pick_return": 0.77,
+  "pick_return": 0.769,
   "bet_races": 133,
   "bet_pnl": -2350
  },
@@ -82,30 +82,30 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 595,
-  "fav_win": 0.553,
-  "pick_hit": 0.261,
-  "pick_return": 0.776,
+  "races": 596,
+  "fav_win": 0.552,
+  "pick_hit": 0.26,
+  "pick_return": 0.775,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 595,
-  "fav_win": 0.553,
+  "races": 596,
+  "fav_win": 0.552,
   "pick_hit": 0.198,
-  "pick_return": 0.753,
+  "pick_return": 0.751,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 290,
-  "fav_win": 0.686,
-  "pick_hit": 0.314,
-  "pick_return": 0.851,
+  "races": 291,
+  "fav_win": 0.684,
+  "pick_hit": 0.313,
+  "pick_return": 0.848,
   "bet_races": 61,
   "bet_pnl": -1940
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 563,
-  "fav_win": 0.572,
+  "races": 564,
+  "fav_win": 0.571,
   "pick_hit": 0.27,
-  "pick_return": 0.78,
+  "pick_return": 0.779,
   "bet_races": 136,
   "bet_pnl": -3490
  },
@@ -341,6 +341,16 @@
  },
  {
   "axis": "場",
+  "name": "児島",
+  "races": 5,
+  "fav_win": 0.6,
+  "pick_hit": 0.2,
+  "pick_return": 0.467,
+  "bet_races": 2,
+  "bet_pnl": -200
+ },
+ {
+  "axis": "場",
   "name": "江戸川",
   "races": 4,
   "fav_win": 0.5,
@@ -348,15 +358,5 @@
   "pick_return": 1.45,
   "bet_races": 3,
   "bet_pnl": -500
- },
- {
-  "axis": "場",
-  "name": "児島",
-  "races": 4,
-  "fav_win": 0.75,
-  "pick_hit": 0.25,
-  "pick_return": 0.583,
-  "bet_races": 2,
-  "bet_pnl": -200
  }
 ]
