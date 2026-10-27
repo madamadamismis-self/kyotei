@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 653,
+  "races": 654,
   "fav_win": 0.547,
-  "pick_hit": 0.253,
-  "pick_return": 0.751,
+  "pick_hit": 0.252,
+  "pick_return": 0.75,
   "bet_races": 152,
   "bet_pnl": -4600
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 617,
-  "fav_win": 0.546,
-  "pick_hit": 0.253,
-  "pick_return": 0.752,
+  "races": 618,
+  "fav_win": 0.547,
+  "pick_hit": 0.252,
+  "pick_return": 0.751,
   "bet_races": 137,
   "bet_pnl": -2400
  },
@@ -82,30 +82,30 @@
  {
   "axis": "AI比較",
   "name": "私の参考3点",
-  "races": 622,
-  "fav_win": 0.543,
+  "races": 623,
+  "fav_win": 0.544,
   "pick_hit": 0.254,
-  "pick_return": 0.758,
+  "pick_return": 0.757,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "AI比較",
   "name": "ポセイドン上位3点",
-  "races": 622,
-  "fav_win": 0.543,
+  "races": 623,
+  "fav_win": 0.544,
   "pick_hit": 0.191,
-  "pick_return": 0.727,
+  "pick_return": 0.726,
   "bet_races": 0,
   "bet_pnl": 0
  },
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 294,
-  "fav_win": 0.684,
-  "pick_hit": 0.313,
-  "pick_return": 0.848,
+  "races": 295,
+  "fav_win": 0.685,
+  "pick_hit": 0.312,
+  "pick_return": 0.845,
   "bet_races": 62,
   "bet_pnl": -2040
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 582,
-  "fav_win": 0.565,
-  "pick_hit": 0.263,
-  "pick_return": 0.763,
+  "races": 583,
+  "fav_win": 0.566,
+  "pick_hit": 0.262,
+  "pick_return": 0.761,
   "bet_races": 140,
   "bet_pnl": -3540
  },
@@ -171,6 +171,16 @@
  },
  {
   "axis": "場",
+  "name": "福岡",
+  "races": 46,
+  "fav_win": 0.435,
+  "pick_hit": 0.239,
+  "pick_return": 0.869,
+  "bet_races": 13,
+  "bet_pnl": 660
+ },
+ {
+  "axis": "場",
   "name": "多摩川",
   "races": 45,
   "fav_win": 0.578,
@@ -188,16 +198,6 @@
   "pick_return": 0.72,
   "bet_races": 14,
   "bet_pnl": -240
- },
- {
-  "axis": "場",
-  "name": "福岡",
-  "races": 45,
-  "fav_win": 0.422,
-  "pick_hit": 0.244,
-  "pick_return": 0.888,
-  "bet_races": 13,
-  "bet_pnl": 660
  },
  {
   "axis": "場",
