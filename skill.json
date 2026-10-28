@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 814,
-  "fav_win": 0.536,
+  "races": 815,
+  "fav_win": 0.535,
   "pick_hit": 0.238,
-  "pick_return": 0.7,
+  "pick_return": 0.699,
   "bet_races": 171,
   "bet_pnl": -5620
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 778,
-  "fav_win": 0.535,
-  "pick_hit": 0.238,
-  "pick_return": 0.698,
+  "races": 779,
+  "fav_win": 0.534,
+  "pick_hit": 0.237,
+  "pick_return": 0.697,
   "bet_races": 156,
   "bet_pnl": -3420
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 244,
-  "fav_win": 0.496,
-  "pick_hit": 0.238,
-  "pick_return": 0.656,
+  "races": 245,
+  "fav_win": 0.494,
+  "pick_hit": 0.237,
+  "pick_return": 0.654,
   "bet_races": 72,
   "bet_pnl": -2140
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 723,
-  "fav_win": 0.553,
-  "pick_hit": 0.245,
-  "pick_return": 0.698,
+  "races": 724,
+  "fav_win": 0.552,
+  "pick_hit": 0.244,
+  "pick_return": 0.697,
   "bet_races": 156,
   "bet_pnl": -4260
  },
@@ -222,10 +222,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 43,
-  "fav_win": 0.512,
-  "pick_hit": 0.279,
-  "pick_return": 0.75,
+  "races": 44,
+  "fav_win": 0.5,
+  "pick_hit": 0.273,
+  "pick_return": 0.733,
   "bet_races": 0,
   "bet_pnl": 0
  },
