@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 794,
+  "races": 796,
   "fav_win": 0.535,
-  "pick_hit": 0.242,
-  "pick_return": 0.71,
+  "pick_hit": 0.241,
+  "pick_return": 0.708,
   "bet_races": 171,
   "bet_pnl": -5620
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 758,
+  "races": 760,
   "fav_win": 0.534,
   "pick_hit": 0.241,
-  "pick_return": 0.708,
+  "pick_return": 0.707,
   "bet_races": 156,
   "bet_pnl": -3420
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 353,
-  "fav_win": 0.688,
-  "pick_hit": 0.303,
-  "pick_return": 0.799,
+  "races": 354,
+  "fav_win": 0.689,
+  "pick_hit": 0.302,
+  "pick_return": 0.797,
   "bet_races": 72,
   "bet_pnl": -1860
  },
@@ -102,20 +102,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 201,
-  "fav_win": 0.313,
+  "races": 202,
+  "fav_win": 0.312,
   "pick_hit": 0.134,
-  "pick_return": 0.605,
+  "pick_return": 0.602,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 708,
+  "races": 710,
   "fav_win": 0.554,
-  "pick_hit": 0.247,
-  "pick_return": 0.704,
+  "pick_hit": 0.246,
+  "pick_return": 0.702,
   "bet_races": 156,
   "bet_pnl": -4260
  },
@@ -281,6 +281,16 @@
  },
  {
   "axis": "場",
+  "name": "丸亀",
+  "races": 27,
+  "fav_win": 0.481,
+  "pick_hit": 0.148,
+  "pick_return": 0.332,
+  "bet_races": 2,
+  "bet_pnl": 180
+ },
+ {
+  "axis": "場",
   "name": "唐津",
   "races": 26,
   "fav_win": 0.692,
@@ -288,16 +298,6 @@
   "pick_return": 0.899,
   "bet_races": 2,
   "bet_pnl": -300
- },
- {
-  "axis": "場",
-  "name": "丸亀",
-  "races": 26,
-  "fav_win": 0.5,
-  "pick_hit": 0.154,
-  "pick_return": 0.345,
-  "bet_races": 2,
-  "bet_pnl": 180
  },
  {
   "axis": "場",
@@ -312,10 +312,10 @@
  {
   "axis": "場",
   "name": "児島",
-  "races": 21,
-  "fav_win": 0.333,
-  "pick_hit": 0.143,
-  "pick_return": 0.444,
+  "races": 22,
+  "fav_win": 0.364,
+  "pick_hit": 0.136,
+  "pick_return": 0.424,
   "bet_races": 4,
   "bet_pnl": -400
  },
