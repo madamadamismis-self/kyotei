@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 762,
+  "races": 763,
   "fav_win": 0.541,
   "pick_hit": 0.248,
-  "pick_return": 0.731,
+  "pick_return": 0.73,
   "bet_races": 166,
   "bet_pnl": -5020
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 726,
-  "fav_win": 0.54,
+  "races": 727,
+  "fav_win": 0.541,
   "pick_hit": 0.248,
-  "pick_return": 0.731,
+  "pick_return": 0.73,
   "bet_races": 151,
   "bet_pnl": -2820
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 339,
-  "fav_win": 0.693,
-  "pick_hit": 0.31,
-  "pick_return": 0.82,
+  "races": 340,
+  "fav_win": 0.694,
+  "pick_hit": 0.309,
+  "pick_return": 0.817,
   "bet_races": 69,
   "bet_pnl": -1560
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 678,
-  "fav_win": 0.562,
-  "pick_hit": 0.254,
-  "pick_return": 0.726,
+  "races": 679,
+  "fav_win": 0.563,
+  "pick_hit": 0.253,
+  "pick_return": 0.725,
   "bet_races": 152,
   "bet_pnl": -3760
  },
@@ -272,10 +272,10 @@
  {
   "axis": "場",
   "name": "尼崎",
-  "races": 26,
-  "fav_win": 0.692,
-  "pick_hit": 0.423,
-  "pick_return": 0.938,
+  "races": 27,
+  "fav_win": 0.704,
+  "pick_hit": 0.407,
+  "pick_return": 0.904,
   "bet_races": 8,
   "bet_pnl": -580
  },
