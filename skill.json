@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 825,
+  "races": 826,
   "fav_win": 0.536,
-  "pick_hit": 0.24,
-  "pick_return": 0.703,
+  "pick_hit": 0.241,
+  "pick_return": 0.707,
   "bet_races": 173,
   "bet_pnl": -5370
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 789,
+  "races": 790,
   "fav_win": 0.535,
-  "pick_hit": 0.24,
-  "pick_return": 0.701,
+  "pick_hit": 0.241,
+  "pick_return": 0.705,
   "bet_races": 158,
   "bet_pnl": -3170
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 363,
-  "fav_win": 0.691,
-  "pick_hit": 0.303,
-  "pick_return": 0.798,
+  "races": 364,
+  "fav_win": 0.692,
+  "pick_hit": 0.305,
+  "pick_return": 0.806,
   "bet_races": 73,
   "bet_pnl": -1510
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 732,
+  "races": 733,
   "fav_win": 0.555,
-  "pick_hit": 0.247,
-  "pick_return": 0.704,
+  "pick_hit": 0.248,
+  "pick_return": 0.708,
   "bet_races": 158,
   "bet_pnl": -4010
  },
@@ -311,6 +311,16 @@
  },
  {
   "axis": "場",
+  "name": "蒲郡",
+  "races": 24,
+  "fav_win": 0.583,
+  "pick_hit": 0.167,
+  "pick_return": 0.589,
+  "bet_races": 3,
+  "bet_pnl": 150
+ },
+ {
+  "axis": "場",
   "name": "児島",
   "races": 23,
   "fav_win": 0.348,
@@ -318,16 +328,6 @@
   "pick_return": 0.406,
   "bet_races": 4,
   "bet_pnl": -400
- },
- {
-  "axis": "場",
-  "name": "蒲郡",
-  "races": 23,
-  "fav_win": 0.565,
-  "pick_hit": 0.13,
-  "pick_return": 0.458,
-  "bet_races": 3,
-  "bet_pnl": 150
  },
  {
   "axis": "場",
