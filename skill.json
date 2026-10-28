@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 745,
+  "races": 746,
   "fav_win": 0.542,
-  "pick_hit": 0.25,
-  "pick_return": 0.73,
+  "pick_hit": 0.249,
+  "pick_return": 0.729,
   "bet_races": 163,
   "bet_pnl": -4620
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 709,
-  "fav_win": 0.542,
-  "pick_hit": 0.25,
-  "pick_return": 0.73,
+  "races": 710,
+  "fav_win": 0.541,
+  "pick_hit": 0.249,
+  "pick_return": 0.729,
   "bet_races": 148,
   "bet_pnl": -2420
  },
@@ -102,10 +102,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 183,
-  "fav_win": 0.306,
-  "pick_hit": 0.131,
-  "pick_return": 0.593,
+  "races": 184,
+  "fav_win": 0.304,
+  "pick_hit": 0.13,
+  "pick_return": 0.59,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 79,
-  "fav_win": 0.354,
-  "pick_hit": 0.177,
-  "pick_return": 0.659,
+  "races": 80,
+  "fav_win": 0.35,
+  "pick_hit": 0.175,
+  "pick_return": 0.651,
   "bet_races": 14,
   "bet_pnl": -1260
  },
@@ -251,6 +251,16 @@
  },
  {
   "axis": "場",
+  "name": "常滑",
+  "races": 34,
+  "fav_win": 0.588,
+  "pick_hit": 0.265,
+  "pick_return": 0.681,
+  "bet_races": 8,
+  "bet_pnl": -200
+ },
+ {
+  "axis": "場",
   "name": "宮島",
   "races": 33,
   "fav_win": 0.606,
@@ -258,16 +268,6 @@
   "pick_return": 0.997,
   "bet_races": 6,
   "bet_pnl": -280
- },
- {
-  "axis": "場",
-  "name": "常滑",
-  "races": 33,
-  "fav_win": 0.606,
-  "pick_hit": 0.273,
-  "pick_return": 0.702,
-  "bet_races": 8,
-  "bet_pnl": -200
  },
  {
   "axis": "場",
