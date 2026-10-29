@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 942,
-  "fav_win": 0.544,
+  "races": 944,
+  "fav_win": 0.543,
   "pick_hit": 0.242,
-  "pick_return": 0.704,
+  "pick_return": 0.702,
   "bet_races": 193,
   "bet_pnl": -6380
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 906,
+  "races": 908,
   "fav_win": 0.543,
-  "pick_hit": 0.242,
-  "pick_return": 0.702,
+  "pick_hit": 0.241,
+  "pick_return": 0.701,
   "bet_races": 178,
   "bet_pnl": -4180
  },
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 416,
+  "races": 417,
   "fav_win": 0.695,
-  "pick_hit": 0.308,
-  "pick_return": 0.795,
+  "pick_hit": 0.307,
+  "pick_return": 0.793,
   "bet_races": 85,
   "bet_pnl": -2180
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 283,
-  "fav_win": 0.498,
-  "pick_hit": 0.237,
-  "pick_return": 0.666,
+  "races": 284,
+  "fav_win": 0.496,
+  "pick_hit": 0.236,
+  "pick_return": 0.664,
   "bet_races": 81,
   "bet_pnl": -2580
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 835,
+  "races": 837,
   "fav_win": 0.559,
   "pick_hit": 0.25,
-  "pick_return": 0.705,
+  "pick_return": 0.704,
   "bet_races": 178,
   "bet_pnl": -5020
  },
@@ -142,10 +142,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 57,
-  "fav_win": 0.544,
-  "pick_hit": 0.298,
-  "pick_return": 0.754,
+  "races": 58,
+  "fav_win": 0.534,
+  "pick_hit": 0.293,
+  "pick_return": 0.741,
   "bet_races": 0,
   "bet_pnl": 0
  },
@@ -281,6 +281,16 @@
  },
  {
   "axis": "場",
+  "name": "蒲郡",
+  "races": 36,
+  "fav_win": 0.556,
+  "pick_hit": 0.194,
+  "pick_return": 0.7,
+  "bet_races": 4,
+  "bet_pnl": 50
+ },
+ {
+  "axis": "場",
   "name": "住之江",
   "races": 35,
   "fav_win": 0.629,
@@ -308,16 +318,6 @@
   "pick_return": 0.667,
   "bet_races": 10,
   "bet_pnl": -1200
- },
- {
-  "axis": "場",
-  "name": "蒲郡",
-  "races": 35,
-  "fav_win": 0.543,
-  "pick_hit": 0.2,
-  "pick_return": 0.72,
-  "bet_races": 4,
-  "bet_pnl": 50
  },
  {
   "axis": "場",
