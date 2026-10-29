@@ -2,13 +2,13 @@
  {
   "hd": "20261029",
   "initial": 9150,
-  "bankroll": 8850,
-  "pnl": -300,
-  "in_play": 300,
+  "bankroll": 8940,
+  "pnl": -210,
+  "in_play": 0,
   "races_total": 120,
-  "races_settled": 11,
+  "races_settled": 13,
   "races_bet": 4,
-  "hits": 0,
-  "updated": "2026-10-29 10:16"
+  "hits": 1,
+  "updated": "2026-10-29 10:26"
  }
 ]
