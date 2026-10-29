@@ -2,22 +2,22 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 873,
+  "races": 874,
   "fav_win": 0.534,
-  "pick_hit": 0.236,
-  "pick_return": 0.689,
-  "bet_races": 187,
-  "bet_pnl": -5480
+  "pick_hit": 0.237,
+  "pick_return": 0.691,
+  "bet_races": 188,
+  "bet_pnl": -5580
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 837,
+  "races": 838,
   "fav_win": 0.533,
-  "pick_hit": 0.235,
-  "pick_return": 0.687,
-  "bet_races": 172,
-  "bet_pnl": -3280
+  "pick_hit": 0.236,
+  "pick_return": 0.689,
+  "bet_races": 173,
+  "bet_pnl": -3380
  },
  {
   "axis": "使ったモデル",
@@ -62,12 +62,12 @@
  {
   "axis": "買った券種",
   "name": "2連単",
-  "races": 32,
-  "fav_win": 0.656,
-  "pick_hit": 0.25,
-  "pick_return": 0.626,
-  "bet_races": 32,
-  "bet_pnl": -30
+  "races": 33,
+  "fav_win": 0.667,
+  "pick_hit": 0.273,
+  "pick_return": 0.68,
+  "bet_races": 33,
+  "bet_pnl": -130
  },
  {
   "axis": "買った券種",
@@ -92,12 +92,12 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 263,
-  "fav_win": 0.494,
-  "pick_hit": 0.232,
-  "pick_return": 0.648,
-  "bet_races": 78,
-  "bet_pnl": -2080
+  "races": 264,
+  "fav_win": 0.496,
+  "pick_hit": 0.235,
+  "pick_return": 0.655,
+  "bet_races": 79,
+  "bet_pnl": -2180
  },
  {
   "axis": "本命の強さ",
@@ -112,12 +112,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 774,
+  "races": 775,
   "fav_win": 0.552,
-  "pick_hit": 0.244,
-  "pick_return": 0.693,
-  "bet_races": 172,
-  "bet_pnl": -4120
+  "pick_hit": 0.245,
+  "pick_return": 0.695,
+  "bet_races": 173,
+  "bet_pnl": -4220
  },
  {
   "axis": "本命の枠",
@@ -312,12 +312,12 @@
  {
   "axis": "場",
   "name": "児島",
-  "races": 27,
-  "fav_win": 0.37,
-  "pick_hit": 0.148,
-  "pick_return": 0.504,
-  "bet_races": 5,
-  "bet_pnl": -600
+  "races": 28,
+  "fav_win": 0.393,
+  "pick_hit": 0.179,
+  "pick_return": 0.571,
+  "bet_races": 6,
+  "bet_pnl": -700
  },
  {
   "axis": "場",
