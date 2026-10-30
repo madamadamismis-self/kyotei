@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 982,
-  "fav_win": 0.545,
+  "races": 984,
+  "fav_win": 0.544,
   "pick_hit": 0.239,
-  "pick_return": 0.7,
+  "pick_return": 0.699,
   "bet_races": 197,
   "bet_pnl": -5850
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 946,
-  "fav_win": 0.544,
-  "pick_hit": 0.239,
-  "pick_return": 0.698,
+  "races": 948,
+  "fav_win": 0.543,
+  "pick_hit": 0.238,
+  "pick_return": 0.697,
   "bet_races": 182,
   "bet_pnl": -3650
  },
@@ -102,20 +102,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 253,
-  "fav_win": 0.336,
-  "pick_hit": 0.142,
-  "pick_return": 0.619,
+  "races": 255,
+  "fav_win": 0.333,
+  "pick_hit": 0.141,
+  "pick_return": 0.615,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 871,
-  "fav_win": 0.561,
-  "pick_hit": 0.246,
-  "pick_return": 0.693,
+  "races": 873,
+  "fav_win": 0.56,
+  "pick_hit": 0.245,
+  "pick_return": 0.692,
   "bet_races": 182,
   "bet_pnl": -4490
  },
@@ -181,6 +181,16 @@
  },
  {
   "axis": "場",
+  "name": "浜名湖",
+  "races": 49,
+  "fav_win": 0.551,
+  "pick_hit": 0.224,
+  "pick_return": 0.733,
+  "bet_races": 14,
+  "bet_pnl": -240
+ },
+ {
+  "axis": "場",
   "name": "尼崎",
   "races": 49,
   "fav_win": 0.694,
@@ -188,16 +198,6 @@
   "pick_return": 0.803,
   "bet_races": 14,
   "bet_pnl": -840
- },
- {
-  "axis": "場",
-  "name": "浜名湖",
-  "races": 48,
-  "fav_win": 0.562,
-  "pick_hit": 0.229,
-  "pick_return": 0.749,
-  "bet_races": 14,
-  "bet_pnl": -240
  },
  {
   "axis": "場",
@@ -218,6 +218,16 @@
   "pick_return": 0.567,
   "bet_races": 4,
   "bet_pnl": -20
+ },
+ {
+  "axis": "場",
+  "name": "唐津",
+  "races": 45,
+  "fav_win": 0.667,
+  "pick_hit": 0.267,
+  "pick_return": 0.717,
+  "bet_races": 5,
+  "bet_pnl": 60
  },
  {
   "axis": "場",
@@ -248,16 +258,6 @@
   "pick_return": 0.514,
   "bet_races": 8,
   "bet_pnl": 50
- },
- {
-  "axis": "場",
-  "name": "唐津",
-  "races": 44,
-  "fav_win": 0.682,
-  "pick_hit": 0.273,
-  "pick_return": 0.733,
-  "bet_races": 5,
-  "bet_pnl": 60
  },
  {
   "axis": "場",
