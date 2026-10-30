@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1031,
+  "races": 1033,
   "fav_win": 0.543,
   "pick_hit": 0.242,
-  "pick_return": 0.7,
+  "pick_return": 0.701,
   "bet_races": 201,
   "bet_pnl": -5140
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 995,
+  "races": 997,
   "fav_win": 0.543,
-  "pick_hit": 0.241,
-  "pick_return": 0.698,
+  "pick_hit": 0.242,
+  "pick_return": 0.7,
   "bet_races": 186,
   "bet_pnl": -2940
  },
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 457,
-  "fav_win": 0.7,
-  "pick_hit": 0.3,
-  "pick_return": 0.762,
+  "races": 458,
+  "fav_win": 0.699,
+  "pick_hit": 0.299,
+  "pick_return": 0.76,
   "bet_races": 91,
   "bet_pnl": -1670
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 312,
-  "fav_win": 0.49,
-  "pick_hit": 0.24,
-  "pick_return": 0.689,
+  "races": 313,
+  "fav_win": 0.492,
+  "pick_hit": 0.243,
+  "pick_return": 0.695,
   "bet_races": 83,
   "bet_pnl": -1850
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 918,
+  "races": 920,
   "fav_win": 0.559,
-  "pick_hit": 0.248,
-  "pick_return": 0.695,
+  "pick_hit": 0.249,
+  "pick_return": 0.696,
   "bet_races": 186,
   "bet_pnl": -3780
  },
@@ -231,6 +231,16 @@
  },
  {
   "axis": "場",
+  "name": "児島",
+  "races": 45,
+  "fav_win": 0.4,
+  "pick_hit": 0.222,
+  "pick_return": 0.63,
+  "bet_races": 9,
+  "bet_pnl": -1200
+ },
+ {
+  "axis": "場",
   "name": "鳴門",
   "races": 45,
   "fav_win": 0.378,
@@ -261,16 +271,6 @@
  },
  {
   "axis": "場",
-  "name": "児島",
-  "races": 44,
-  "fav_win": 0.386,
-  "pick_hit": 0.205,
-  "pick_return": 0.583,
-  "bet_races": 9,
-  "bet_pnl": -1200
- },
- {
-  "axis": "場",
   "name": "若松",
   "races": 44,
   "fav_win": 0.5,
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 39,
-  "fav_win": 0.436,
-  "pick_hit": 0.154,
-  "pick_return": 0.616,
+  "races": 40,
+  "fav_win": 0.425,
+  "pick_hit": 0.15,
+  "pick_return": 0.601,
   "bet_races": 9,
   "bet_pnl": 430
  },
