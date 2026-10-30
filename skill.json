@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1011,
-  "fav_win": 0.545,
+  "races": 1013,
+  "fav_win": 0.544,
   "pick_hit": 0.24,
-  "pick_return": 0.7,
+  "pick_return": 0.698,
   "bet_races": 199,
   "bet_pnl": -4840
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 975,
-  "fav_win": 0.545,
+  "races": 977,
+  "fav_win": 0.544,
   "pick_hit": 0.24,
-  "pick_return": 0.698,
+  "pick_return": 0.697,
   "bet_races": 184,
   "bet_pnl": -2640
  },
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 446,
-  "fav_win": 0.704,
+  "races": 447,
+  "fav_win": 0.702,
   "pick_hit": 0.298,
-  "pick_return": 0.765,
+  "pick_return": 0.763,
   "bet_races": 89,
   "bet_pnl": -1370
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 305,
-  "fav_win": 0.492,
+  "races": 306,
+  "fav_win": 0.49,
   "pick_hit": 0.239,
-  "pick_return": 0.682,
+  "pick_return": 0.68,
   "bet_races": 83,
   "bet_pnl": -1850
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 899,
-  "fav_win": 0.561,
-  "pick_hit": 0.247,
-  "pick_return": 0.694,
+  "races": 901,
+  "fav_win": 0.559,
+  "pick_hit": 0.246,
+  "pick_return": 0.692,
   "bet_races": 184,
   "bet_pnl": -3480
  },
@@ -161,6 +161,16 @@
  },
  {
   "axis": "場",
+  "name": "尼崎",
+  "races": 53,
+  "fav_win": 0.698,
+  "pick_hit": 0.302,
+  "pick_return": 0.743,
+  "bet_races": 15,
+  "bet_pnl": -490
+ },
+ {
+  "axis": "場",
   "name": "浜名湖",
   "races": 52,
   "fav_win": 0.577,
@@ -168,16 +178,6 @@
   "pick_return": 0.716,
   "bet_races": 14,
   "bet_pnl": -240
- },
- {
-  "axis": "場",
-  "name": "尼崎",
-  "races": 52,
-  "fav_win": 0.712,
-  "pick_hit": 0.308,
-  "pick_return": 0.757,
-  "bet_races": 15,
-  "bet_pnl": -490
  },
  {
   "axis": "場",
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 36,
-  "fav_win": 0.472,
-  "pick_hit": 0.167,
-  "pick_return": 0.668,
+  "races": 37,
+  "fav_win": 0.459,
+  "pick_hit": 0.162,
+  "pick_return": 0.65,
   "bet_races": 9,
   "bet_pnl": 430
  },
