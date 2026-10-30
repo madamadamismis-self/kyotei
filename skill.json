@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1047,
-  "fav_win": 0.544,
+  "races": 1050,
+  "fav_win": 0.546,
   "pick_hit": 0.244,
-  "pick_return": 0.706,
+  "pick_return": 0.707,
   "bet_races": 201,
   "bet_pnl": -5140
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1011,
-  "fav_win": 0.544,
-  "pick_hit": 0.243,
-  "pick_return": 0.705,
+  "races": 1014,
+  "fav_win": 0.545,
+  "pick_hit": 0.244,
+  "pick_return": 0.706,
   "bet_races": 186,
   "bet_pnl": -2940
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 464,
-  "fav_win": 0.7,
+  "races": 467,
+  "fav_win": 0.702,
   "pick_hit": 0.302,
-  "pick_return": 0.771,
+  "pick_return": 0.773,
   "bet_races": 91,
   "bet_pnl": -1670
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 931,
-  "fav_win": 0.561,
-  "pick_hit": 0.25,
-  "pick_return": 0.701,
+  "races": 934,
+  "fav_win": 0.562,
+  "pick_hit": 0.251,
+  "pick_return": 0.702,
   "bet_races": 186,
   "bet_pnl": -3780
  },
@@ -172,12 +172,22 @@
  {
   "axis": "場",
   "name": "尼崎",
-  "races": 56,
-  "fav_win": 0.679,
-  "pick_hit": 0.286,
-  "pick_return": 0.703,
+  "races": 57,
+  "fav_win": 0.684,
+  "pick_hit": 0.298,
+  "pick_return": 0.747,
   "bet_races": 15,
   "bet_pnl": -490
+ },
+ {
+  "axis": "場",
+  "name": "丸亀",
+  "races": 51,
+  "fav_win": 0.569,
+  "pick_hit": 0.235,
+  "pick_return": 0.625,
+  "bet_races": 5,
+  "bet_pnl": -220
  },
  {
   "axis": "場",
@@ -188,16 +198,6 @@
   "pick_return": 0.926,
   "bet_races": 14,
   "bet_pnl": 560
- },
- {
-  "axis": "場",
-  "name": "丸亀",
-  "races": 50,
-  "fav_win": 0.56,
-  "pick_hit": 0.24,
-  "pick_return": 0.638,
-  "bet_races": 5,
-  "bet_pnl": -220
  },
  {
   "axis": "場",
@@ -232,10 +232,10 @@
  {
   "axis": "場",
   "name": "児島",
-  "races": 46,
-  "fav_win": 0.413,
-  "pick_hit": 0.239,
-  "pick_return": 0.682,
+  "races": 47,
+  "fav_win": 0.426,
+  "pick_hit": 0.234,
+  "pick_return": 0.667,
   "bet_races": 9,
   "bet_pnl": -1200
  },
