@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1146,
+  "races": 1149,
   "fav_win": 0.551,
   "pick_hit": 0.248,
-  "pick_return": 0.725,
+  "pick_return": 0.726,
   "bet_races": 217,
   "bet_pnl": -5480
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1110,
-  "fav_win": 0.55,
+  "races": 1113,
+  "fav_win": 0.551,
   "pick_hit": 0.248,
-  "pick_return": 0.725,
+  "pick_return": 0.726,
   "bet_races": 202,
   "bet_pnl": -3280
  },
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 522,
-  "fav_win": 0.703,
+  "races": 524,
+  "fav_win": 0.702,
   "pick_hit": 0.303,
-  "pick_return": 0.777,
+  "pick_return": 0.781,
   "bet_races": 103,
   "bet_pnl": -1990
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 337,
-  "fav_win": 0.49,
+  "races": 338,
+  "fav_win": 0.491,
   "pick_hit": 0.243,
-  "pick_return": 0.707,
+  "pick_return": 0.705,
   "bet_races": 87,
   "bet_pnl": -1870
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1020,
+  "races": 1023,
   "fav_win": 0.567,
   "pick_hit": 0.254,
-  "pick_return": 0.717,
+  "pick_return": 0.718,
   "bet_races": 201,
   "bet_pnl": -4020
  },
@@ -232,10 +232,10 @@
  {
   "axis": "場",
   "name": "津",
-  "races": 51,
-  "fav_win": 0.529,
-  "pick_hit": 0.216,
-  "pick_return": 0.645,
+  "races": 52,
+  "fav_win": 0.538,
+  "pick_hit": 0.212,
+  "pick_return": 0.633,
   "bet_races": 10,
   "bet_pnl": -540
  },
@@ -272,10 +272,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 46,
-  "fav_win": 0.435,
-  "pick_hit": 0.174,
-  "pick_return": 0.679,
+  "races": 47,
+  "fav_win": 0.447,
+  "pick_hit": 0.191,
+  "pick_return": 0.735,
   "bet_races": 11,
   "bet_pnl": 230
  },
@@ -352,10 +352,10 @@
  {
   "axis": "場",
   "name": "戸田",
-  "races": 5,
-  "fav_win": 0.8,
-  "pick_hit": 0.6,
-  "pick_return": 2.087,
+  "races": 6,
+  "fav_win": 0.667,
+  "pick_hit": 0.5,
+  "pick_return": 1.739,
   "bet_races": 0,
   "bet_pnl": 0
  }
