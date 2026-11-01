@@ -1,14 +1,14 @@
 [
  {
-  "hd": "20261101",
-  "initial": 9260,
+  "hd": "20261102",
+  "initial": 9900,
   "bankroll": 9900,
-  "pnl": 640,
+  "pnl": 0,
   "in_play": 0,
-  "races_total": 148,
-  "races_settled": 148,
-  "races_bet": 17,
-  "hits": 5,
-  "updated": "2026-11-01 23:56"
+  "races_total": 156,
+  "races_settled": 0,
+  "races_bet": 0,
+  "hits": 0,
+  "updated": "2026-11-02 08:06"
  }
 ]
