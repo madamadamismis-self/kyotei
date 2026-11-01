@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1262,
-  "fav_win": 0.554,
+  "races": 1265,
+  "fav_win": 0.553,
   "pick_hit": 0.25,
-  "pick_return": 0.737,
+  "pick_return": 0.738,
   "bet_races": 230,
   "bet_pnl": -4910
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1226,
-  "fav_win": 0.554,
+  "races": 1229,
+  "fav_win": 0.553,
   "pick_hit": 0.25,
-  "pick_return": 0.737,
+  "pick_return": 0.738,
   "bet_races": 215,
   "bet_pnl": -2710
  },
@@ -92,30 +92,30 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 374,
+  "races": 376,
   "fav_win": 0.503,
-  "pick_hit": 0.246,
-  "pick_return": 0.728,
+  "pick_hit": 0.247,
+  "pick_return": 0.731,
   "bet_races": 93,
   "bet_pnl": -1320
  },
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 311,
-  "fav_win": 0.344,
+  "races": 312,
+  "fav_win": 0.343,
   "pick_hit": 0.154,
-  "pick_return": 0.662,
+  "pick_return": 0.66,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1119,
-  "fav_win": 0.571,
+  "races": 1122,
+  "fav_win": 0.57,
   "pick_hit": 0.256,
-  "pick_return": 0.726,
+  "pick_return": 0.727,
   "bet_races": 213,
   "bet_pnl": -3350
  },
@@ -201,6 +201,16 @@
  },
  {
   "axis": "場",
+  "name": "津",
+  "races": 60,
+  "fav_win": 0.517,
+  "pick_hit": 0.2,
+  "pick_return": 0.592,
+  "bet_races": 10,
+  "bet_pnl": -540
+ },
+ {
+  "axis": "場",
   "name": "蒲郡",
   "races": 60,
   "fav_win": 0.6,
@@ -218,16 +228,6 @@
   "pick_return": 0.729,
   "bet_races": 8,
   "bet_pnl": -390
- },
- {
-  "axis": "場",
-  "name": "津",
-  "races": 59,
-  "fav_win": 0.508,
-  "pick_hit": 0.186,
-  "pick_return": 0.558,
-  "bet_races": 10,
-  "bet_pnl": -540
  },
  {
   "axis": "場",
@@ -322,20 +322,20 @@
  {
   "axis": "場",
   "name": "芦屋",
-  "races": 40,
-  "fav_win": 0.55,
-  "pick_hit": 0.25,
-  "pick_return": 0.704,
+  "races": 41,
+  "fav_win": 0.537,
+  "pick_hit": 0.244,
+  "pick_return": 0.687,
   "bet_races": 10,
   "bet_pnl": -1200
  },
  {
   "axis": "場",
   "name": "宮島",
-  "races": 39,
-  "fav_win": 0.59,
-  "pick_hit": 0.256,
-  "pick_return": 0.844,
+  "races": 40,
+  "fav_win": 0.575,
+  "pick_hit": 0.25,
+  "pick_return": 0.823,
   "bet_races": 7,
   "bet_pnl": -380
  },
