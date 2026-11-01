@@ -2,18 +2,18 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1289,
-  "fav_win": 0.552,
+  "races": 1292,
+  "fav_win": 0.553,
   "pick_hit": 0.252,
-  "pick_return": 0.747,
+  "pick_return": 0.748,
   "bet_races": 232,
   "bet_pnl": -4740
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1253,
-  "fav_win": 0.552,
+  "races": 1256,
+  "fav_win": 0.553,
   "pick_hit": 0.252,
   "pick_return": 0.748,
   "bet_races": 217,
@@ -82,8 +82,8 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 587,
-  "fav_win": 0.697,
+  "races": 590,
+  "fav_win": 0.698,
   "pick_hit": 0.303,
   "pick_return": 0.787,
   "bet_races": 111,
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1144,
-  "fav_win": 0.569,
+  "races": 1147,
+  "fav_win": 0.57,
   "pick_hit": 0.258,
-  "pick_return": 0.736,
+  "pick_return": 0.737,
   "bet_races": 215,
   "bet_pnl": -3180
  },
@@ -132,10 +132,10 @@
  {
   "axis": "場",
   "name": "大村",
-  "races": 96,
-  "fav_win": 0.625,
-  "pick_hit": 0.333,
-  "pick_return": 0.824,
+  "races": 97,
+  "fav_win": 0.629,
+  "pick_hit": 0.33,
+  "pick_return": 0.816,
   "bet_races": 17,
   "bet_pnl": -200
  },
@@ -211,6 +211,16 @@
  },
  {
   "axis": "場",
+  "name": "蒲郡",
+  "races": 61,
+  "fav_win": 0.607,
+  "pick_hit": 0.23,
+  "pick_return": 0.75,
+  "bet_races": 9,
+  "bet_pnl": 60
+ },
+ {
+  "axis": "場",
   "name": "鳴門",
   "races": 60,
   "fav_win": 0.45,
@@ -221,21 +231,11 @@
  },
  {
   "axis": "場",
-  "name": "蒲郡",
-  "races": 60,
-  "fav_win": 0.6,
-  "pick_hit": 0.217,
-  "pick_return": 0.723,
-  "bet_races": 9,
-  "bet_pnl": 60
- },
- {
-  "axis": "場",
   "name": "福岡",
-  "races": 59,
-  "fav_win": 0.492,
-  "pick_hit": 0.305,
-  "pick_return": 0.998,
+  "races": 60,
+  "fav_win": 0.5,
+  "pick_hit": 0.3,
+  "pick_return": 0.982,
   "bet_races": 15,
   "bet_pnl": 1030
  },
