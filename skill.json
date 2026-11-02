@@ -2,8 +2,8 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1495,
-  "fav_win": 0.565,
+  "races": 1496,
+  "fav_win": 0.566,
   "pick_hit": 0.253,
   "pick_return": 0.752,
   "bet_races": 252,
@@ -12,8 +12,8 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1459,
-  "fav_win": 0.565,
+  "races": 1460,
+  "fav_win": 0.566,
   "pick_hit": 0.253,
   "pick_return": 0.752,
   "bet_races": 237,
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 692,
+  "races": 693,
   "fav_win": 0.71,
   "pick_hit": 0.299,
-  "pick_return": 0.776,
+  "pick_return": 0.775,
   "bet_races": 126,
   "bet_pnl": -2480
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1330,
+  "races": 1331,
   "fav_win": 0.582,
-  "pick_hit": 0.259,
-  "pick_return": 0.742,
+  "pick_hit": 0.258,
+  "pick_return": 0.741,
   "bet_races": 234,
   "bet_pnl": -4560
  },
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "芦屋",
-  "races": 54,
-  "fav_win": 0.574,
-  "pick_hit": 0.204,
-  "pick_return": 0.559,
+  "races": 55,
+  "fav_win": 0.582,
+  "pick_hit": 0.2,
+  "pick_return": 0.549,
   "bet_races": 11,
   "bet_pnl": -1300
  },
