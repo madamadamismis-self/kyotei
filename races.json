@@ -2483,16 +2483,16 @@
   "race": "下関 12R",
   "venue": "下関",
   "deadline": "22:45",
-  "status": "投票済み",
+  "status": "確定",
   "bets": "見送り",
   "pick": "本命1号艇（71%）・1-4-2（8.9倍） / 1-2-4（7.7倍） / 1-4-5（11.4倍）",
   "pick_hit": "",
   "stake": 0,
-  "result": "",
-  "result_odds": "",
+  "result": "4-6-2",
+  "result_odds": "261.9倍・55番人気",
   "hit": "",
   "payout": 0,
   "pnl": 0,
-  "bankroll_after": ""
+  "bankroll_after": 8200
  }
 ]
