@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1642,
-  "fav_win": 0.566,
-  "pick_hit": 0.253,
-  "pick_return": 0.748,
+  "races": 1643,
+  "fav_win": 0.567,
+  "pick_hit": 0.254,
+  "pick_return": 0.749,
   "bet_races": 263,
   "bet_pnl": -5880
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1606,
+  "races": 1607,
   "fav_win": 0.567,
-  "pick_hit": 0.253,
-  "pick_return": 0.748,
+  "pick_hit": 0.254,
+  "pick_return": 0.749,
   "bet_races": 248,
   "bet_pnl": -3680
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 488,
-  "fav_win": 0.498,
-  "pick_hit": 0.242,
-  "pick_return": 0.714,
+  "races": 489,
+  "fav_win": 0.499,
+  "pick_hit": 0.243,
+  "pick_return": 0.719,
   "bet_races": 102,
   "bet_pnl": -1950
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1459,
+  "races": 1460,
   "fav_win": 0.585,
-  "pick_hit": 0.26,
-  "pick_return": 0.742,
+  "pick_hit": 0.261,
+  "pick_return": 0.744,
   "bet_races": 245,
   "bet_pnl": -4120
  },
@@ -362,10 +362,10 @@
  {
   "axis": "場",
   "name": "下関",
-  "races": 30,
-  "fav_win": 0.7,
-  "pick_hit": 0.4,
-  "pick_return": 1.162,
+  "races": 31,
+  "fav_win": 0.71,
+  "pick_hit": 0.419,
+  "pick_return": 1.222,
   "bet_races": 2,
   "bet_pnl": -200
  }
