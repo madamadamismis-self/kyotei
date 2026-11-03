@@ -2,22 +2,22 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1617,
+  "races": 1619,
   "fav_win": 0.565,
   "pick_hit": 0.253,
   "pick_return": 0.746,
-  "bet_races": 262,
-  "bet_pnl": -5780
+  "bet_races": 263,
+  "bet_pnl": -5880
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1581,
+  "races": 1583,
   "fav_win": 0.565,
   "pick_hit": 0.253,
   "pick_return": 0.746,
-  "bet_races": 247,
-  "bet_pnl": -3580
+  "bet_races": 248,
+  "bet_pnl": -3680
  },
  {
   "axis": "使ったモデル",
@@ -42,12 +42,12 @@
  {
   "axis": "買った券種",
   "name": "2連単",
-  "races": 64,
-  "fav_win": 0.656,
-  "pick_hit": 0.219,
-  "pick_return": 0.583,
-  "bet_races": 64,
-  "bet_pnl": 1350
+  "races": 65,
+  "fav_win": 0.662,
+  "pick_hit": 0.231,
+  "pick_return": 0.603,
+  "bet_races": 65,
+  "bet_pnl": 1250
  },
  {
   "axis": "買った券種",
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 743,
+  "races": 744,
   "fav_win": 0.712,
-  "pick_hit": 0.301,
-  "pick_return": 0.777,
-  "bet_races": 133,
-  "bet_pnl": -2210
+  "pick_hit": 0.302,
+  "pick_return": 0.778,
+  "bet_races": 134,
+  "bet_pnl": -2310
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 481,
-  "fav_win": 0.499,
+  "races": 482,
+  "fav_win": 0.498,
   "pick_hit": 0.243,
-  "pick_return": 0.715,
+  "pick_return": 0.714,
   "bet_races": 102,
   "bet_pnl": -1950
  },
@@ -112,12 +112,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1434,
+  "races": 1436,
   "fav_win": 0.583,
   "pick_hit": 0.26,
   "pick_return": 0.74,
-  "bet_races": 244,
-  "bet_pnl": -4020
+  "bet_races": 245,
+  "bet_pnl": -4120
  },
  {
   "axis": "本命の枠",
@@ -132,12 +132,12 @@
  {
   "axis": "場",
   "name": "大村",
-  "races": 125,
-  "fav_win": 0.632,
-  "pick_hit": 0.304,
-  "pick_return": 0.756,
-  "bet_races": 20,
-  "bet_pnl": -500
+  "races": 126,
+  "fav_win": 0.635,
+  "pick_hit": 0.31,
+  "pick_return": 0.765,
+  "bet_races": 21,
+  "bet_pnl": -600
  },
  {
   "axis": "場",
@@ -192,10 +192,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 75,
-  "fav_win": 0.52,
-  "pick_hit": 0.253,
-  "pick_return": 0.636,
+  "races": 76,
+  "fav_win": 0.513,
+  "pick_hit": 0.25,
+  "pick_return": 0.628,
   "bet_races": 0,
   "bet_pnl": 0
  },
