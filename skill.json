@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1721,
+  "races": 1723,
   "fav_win": 0.563,
   "pick_hit": 0.247,
   "pick_return": 0.732,
@@ -12,7 +12,7 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1685,
+  "races": 1687,
   "fav_win": 0.563,
   "pick_hit": 0.247,
   "pick_return": 0.732,
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 785,
+  "races": 786,
   "fav_win": 0.71,
-  "pick_hit": 0.297,
-  "pick_return": 0.767,
+  "pick_hit": 0.298,
+  "pick_return": 0.768,
   "bet_races": 140,
   "bet_pnl": -2910
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 513,
-  "fav_win": 0.495,
-  "pick_hit": 0.234,
-  "pick_return": 0.695,
+  "races": 514,
+  "fav_win": 0.494,
+  "pick_hit": 0.233,
+  "pick_return": 0.694,
   "bet_races": 104,
   "bet_pnl": -1320
  },
@@ -112,9 +112,9 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1525,
+  "races": 1527,
   "fav_win": 0.58,
-  "pick_hit": 0.254,
+  "pick_hit": 0.255,
   "pick_return": 0.728,
   "bet_races": 253,
   "bet_pnl": -4090
@@ -142,10 +142,10 @@
  {
   "axis": "場",
   "name": "浜名湖",
-  "races": 107,
-  "fav_win": 0.57,
-  "pick_hit": 0.215,
-  "pick_return": 0.662,
+  "races": 108,
+  "fav_win": 0.565,
+  "pick_hit": 0.213,
+  "pick_return": 0.656,
   "bet_races": 25,
   "bet_pnl": 530
  },
@@ -282,10 +282,10 @@
  {
   "axis": "場",
   "name": "三国",
-  "races": 66,
-  "fav_win": 0.394,
-  "pick_hit": 0.197,
-  "pick_return": 0.734,
+  "races": 67,
+  "fav_win": 0.403,
+  "pick_hit": 0.209,
+  "pick_return": 0.748,
   "bet_races": 10,
   "bet_pnl": -670
  },
