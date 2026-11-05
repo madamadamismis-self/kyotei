@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1896,
+  "races": 1897,
   "fav_win": 0.569,
   "pick_hit": 0.248,
   "pick_return": 0.738,
@@ -12,10 +12,10 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1860,
+  "races": 1861,
   "fav_win": 0.569,
   "pick_hit": 0.248,
-  "pick_return": 0.738,
+  "pick_return": 0.737,
   "bet_races": 273,
   "bet_pnl": -4890
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 870,
-  "fav_win": 0.71,
+  "races": 871,
+  "fav_win": 0.711,
   "pick_hit": 0.301,
-  "pick_return": 0.775,
+  "pick_return": 0.774,
   "bet_races": 149,
   "bet_pnl": -4310
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1688,
+  "races": 1689,
   "fav_win": 0.584,
   "pick_hit": 0.255,
-  "pick_return": 0.734,
+  "pick_return": 0.733,
   "bet_races": 268,
   "bet_pnl": -5030
  },
@@ -362,10 +362,10 @@
  {
   "axis": "場",
   "name": "住之江",
-  "races": 39,
-  "fav_win": 0.59,
-  "pick_hit": 0.231,
-  "pick_return": 0.619,
+  "races": 40,
+  "fav_win": 0.6,
+  "pick_hit": 0.225,
+  "pick_return": 0.603,
   "bet_races": 7,
   "bet_pnl": -900
  }
