@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1968,
-  "fav_win": 0.57,
+  "races": 1970,
+  "fav_win": 0.569,
   "pick_hit": 0.251,
-  "pick_return": 0.746,
+  "pick_return": 0.747,
   "bet_races": 294,
   "bet_pnl": -7690
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1932,
-  "fav_win": 0.57,
+  "races": 1934,
+  "fav_win": 0.569,
   "pick_hit": 0.251,
-  "pick_return": 0.746,
+  "pick_return": 0.747,
   "bet_races": 279,
   "bet_pnl": -5490
  },
@@ -92,30 +92,30 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 595,
-  "fav_win": 0.508,
+  "races": 596,
+  "fav_win": 0.507,
   "pick_hit": 0.232,
-  "pick_return": 0.712,
+  "pick_return": 0.711,
   "bet_races": 113,
   "bet_pnl": -1260
  },
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 474,
-  "fav_win": 0.38,
-  "pick_hit": 0.171,
-  "pick_return": 0.732,
+  "races": 475,
+  "fav_win": 0.379,
+  "pick_hit": 0.173,
+  "pick_return": 0.736,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1753,
-  "fav_win": 0.585,
+  "races": 1755,
+  "fav_win": 0.584,
   "pick_hit": 0.259,
-  "pick_return": 0.746,
+  "pick_return": 0.747,
   "bet_races": 274,
   "bet_pnl": -5630
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "宮島",
-  "races": 97,
-  "fav_win": 0.567,
-  "pick_hit": 0.289,
-  "pick_return": 0.859,
+  "races": 98,
+  "fav_win": 0.561,
+  "pick_hit": 0.286,
+  "pick_return": 0.851,
   "bet_races": 17,
   "bet_pnl": -1580
  },
@@ -311,6 +311,16 @@
  },
  {
   "axis": "場",
+  "name": "多摩川",
+  "races": 55,
+  "fav_win": 0.509,
+  "pick_hit": 0.255,
+  "pick_return": 0.685,
+  "bet_races": 11,
+  "bet_pnl": 190
+ },
+ {
+  "axis": "場",
   "name": "児島",
   "races": 55,
   "fav_win": 0.455,
@@ -318,16 +328,6 @@
   "pick_return": 0.787,
   "bet_races": 9,
   "bet_pnl": -1200
- },
- {
-  "axis": "場",
-  "name": "多摩川",
-  "races": 54,
-  "fav_win": 0.519,
-  "pick_hit": 0.241,
-  "pick_return": 0.649,
-  "bet_races": 11,
-  "bet_pnl": 190
  },
  {
   "axis": "場",
