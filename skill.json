@@ -2,19 +2,19 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 1961,
+  "races": 1964,
   "fav_win": 0.569,
-  "pick_hit": 0.25,
-  "pick_return": 0.747,
+  "pick_hit": 0.251,
+  "pick_return": 0.748,
   "bet_races": 294,
   "bet_pnl": -7690
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 1925,
-  "fav_win": 0.569,
-  "pick_hit": 0.25,
+  "races": 1928,
+  "fav_win": 0.57,
+  "pick_hit": 0.251,
   "pick_return": 0.748,
   "bet_races": 279,
   "bet_pnl": -5490
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 895,
-  "fav_win": 0.709,
-  "pick_hit": 0.304,
-  "pick_return": 0.776,
+  "races": 897,
+  "fav_win": 0.71,
+  "pick_hit": 0.305,
+  "pick_return": 0.778,
   "bet_races": 154,
   "bet_pnl": -4810
  },
@@ -102,19 +102,19 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 472,
-  "fav_win": 0.377,
-  "pick_hit": 0.172,
-  "pick_return": 0.735,
+  "races": 473,
+  "fav_win": 0.378,
+  "pick_hit": 0.171,
+  "pick_return": 0.734,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1746,
+  "races": 1749,
   "fav_win": 0.584,
-  "pick_hit": 0.259,
+  "pick_hit": 0.26,
   "pick_return": 0.748,
   "bet_races": 274,
   "bet_pnl": -5630
@@ -162,10 +162,10 @@
  {
   "axis": "場",
   "name": "福岡",
-  "races": 112,
-  "fav_win": 0.562,
-  "pick_hit": 0.312,
-  "pick_return": 0.874,
+  "races": 113,
+  "fav_win": 0.566,
+  "pick_hit": 0.319,
+  "pick_return": 0.877,
   "bet_races": 18,
   "bet_pnl": 430
  },
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "唐津",
-  "races": 66,
-  "fav_win": 0.652,
-  "pick_hit": 0.273,
-  "pick_return": 0.756,
+  "races": 67,
+  "fav_win": 0.657,
+  "pick_hit": 0.284,
+  "pick_return": 0.773,
   "bet_races": 8,
   "bet_pnl": -240
  },
@@ -332,10 +332,10 @@
  {
   "axis": "場",
   "name": "戸田",
-  "races": 48,
-  "fav_win": 0.521,
-  "pick_hit": 0.292,
-  "pick_return": 1.247,
+  "races": 49,
+  "fav_win": 0.531,
+  "pick_hit": 0.286,
+  "pick_return": 1.222,
   "bet_races": 3,
   "bet_pnl": -300
  },
