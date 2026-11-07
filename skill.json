@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2051,
+  "races": 2052,
   "fav_win": 0.564,
   "pick_hit": 0.25,
-  "pick_return": 0.745,
+  "pick_return": 0.746,
   "bet_races": 298,
   "bet_pnl": -7750
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2015,
+  "races": 2016,
   "fav_win": 0.564,
   "pick_hit": 0.25,
-  "pick_return": 0.745,
+  "pick_return": 0.746,
   "bet_races": 283,
   "bet_pnl": -5550
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 928,
+  "races": 929,
   "fav_win": 0.707,
-  "pick_hit": 0.303,
-  "pick_return": 0.774,
+  "pick_hit": 0.304,
+  "pick_return": 0.776,
   "bet_races": 157,
   "bet_pnl": -4770
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1828,
-  "fav_win": 0.579,
-  "pick_hit": 0.258,
-  "pick_return": 0.746,
+  "races": 1829,
+  "fav_win": 0.58,
+  "pick_hit": 0.259,
+  "pick_return": 0.747,
   "bet_races": 278,
   "bet_pnl": -5690
  },
@@ -281,6 +281,16 @@
  },
  {
   "axis": "場",
+  "name": "唐津",
+  "races": 72,
+  "fav_win": 0.667,
+  "pick_hit": 0.306,
+  "pick_return": 0.868,
+  "bet_races": 8,
+  "bet_pnl": -240
+ },
+ {
+  "axis": "場",
   "name": "蒲郡",
   "races": 72,
   "fav_win": 0.625,
@@ -288,16 +298,6 @@
   "pick_return": 0.801,
   "bet_races": 10,
   "bet_pnl": 510
- },
- {
-  "axis": "場",
-  "name": "唐津",
-  "races": 71,
-  "fav_win": 0.662,
-  "pick_hit": 0.296,
-  "pick_return": 0.839,
-  "bet_races": 8,
-  "bet_pnl": -240
  },
  {
   "axis": "場",
