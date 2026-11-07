@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2064,
-  "fav_win": 0.564,
+  "races": 2067,
+  "fav_win": 0.565,
   "pick_hit": 0.249,
-  "pick_return": 0.741,
+  "pick_return": 0.742,
   "bet_races": 299,
   "bet_pnl": -7610
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2028,
-  "fav_win": 0.564,
+  "races": 2031,
+  "fav_win": 0.565,
   "pick_hit": 0.249,
-  "pick_return": 0.741,
+  "pick_return": 0.742,
   "bet_races": 284,
   "bet_pnl": -5410
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 933,
-  "fav_win": 0.707,
+  "races": 936,
+  "fav_win": 0.708,
   "pick_hit": 0.302,
-  "pick_return": 0.773,
+  "pick_return": 0.774,
   "bet_races": 158,
   "bet_pnl": -4630
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1841,
+  "races": 1844,
   "fav_win": 0.58,
   "pick_hit": 0.257,
-  "pick_return": 0.742,
+  "pick_return": 0.743,
   "bet_races": 279,
   "bet_pnl": -5550
  },
@@ -312,10 +312,10 @@
  {
   "axis": "場",
   "name": "多摩川",
-  "races": 64,
-  "fav_win": 0.5,
-  "pick_hit": 0.25,
-  "pick_return": 0.682,
+  "races": 65,
+  "fav_win": 0.508,
+  "pick_hit": 0.246,
+  "pick_return": 0.672,
   "bet_races": 11,
   "bet_pnl": 190
  },
@@ -342,10 +342,10 @@
  {
   "axis": "場",
   "name": "住之江",
-  "races": 49,
-  "fav_win": 0.551,
-  "pick_hit": 0.224,
-  "pick_return": 0.655,
+  "races": 50,
+  "fav_win": 0.56,
+  "pick_hit": 0.24,
+  "pick_return": 0.706,
   "bet_races": 9,
   "bet_pnl": -760
  },
@@ -362,10 +362,10 @@
  {
   "axis": "場",
   "name": "下関",
-  "races": 42,
-  "fav_win": 0.69,
-  "pick_hit": 0.405,
-  "pick_return": 1.269,
+  "races": 43,
+  "fav_win": 0.698,
+  "pick_hit": 0.395,
+  "pick_return": 1.24,
   "bet_races": 2,
   "bet_pnl": -200
  }
