@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2041,
+  "races": 2043,
   "fav_win": 0.565,
-  "pick_hit": 0.249,
-  "pick_return": 0.744,
+  "pick_hit": 0.25,
+  "pick_return": 0.745,
   "bet_races": 298,
   "bet_pnl": -7750
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2005,
+  "races": 2007,
   "fav_win": 0.565,
-  "pick_hit": 0.249,
-  "pick_return": 0.744,
+  "pick_hit": 0.25,
+  "pick_return": 0.745,
   "bet_races": 283,
   "bet_pnl": -5550
  },
@@ -102,20 +102,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 493,
-  "fav_win": 0.369,
-  "pick_hit": 0.168,
-  "pick_return": 0.716,
+  "races": 495,
+  "fav_win": 0.37,
+  "pick_hit": 0.17,
+  "pick_return": 0.722,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1818,
+  "races": 1820,
   "fav_win": 0.581,
   "pick_hit": 0.258,
-  "pick_return": 0.745,
+  "pick_return": 0.746,
   "bet_races": 278,
   "bet_pnl": -5690
  },
@@ -212,10 +212,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 93,
-  "fav_win": 0.473,
-  "pick_hit": 0.194,
-  "pick_return": 0.711,
+  "races": 94,
+  "fav_win": 0.468,
+  "pick_hit": 0.191,
+  "pick_return": 0.704,
   "bet_races": 17,
   "bet_pnl": -300
  },
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "唐津",
-  "races": 70,
-  "fav_win": 0.657,
-  "pick_hit": 0.286,
-  "pick_return": 0.793,
+  "races": 71,
+  "fav_win": 0.662,
+  "pick_hit": 0.296,
+  "pick_return": 0.839,
   "bet_races": 8,
   "bet_pnl": -240
  },
