@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2059,
+  "races": 2061,
   "fav_win": 0.564,
   "pick_hit": 0.249,
-  "pick_return": 0.743,
+  "pick_return": 0.742,
   "bet_races": 298,
   "bet_pnl": -7750
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2023,
+  "races": 2025,
   "fav_win": 0.564,
   "pick_hit": 0.249,
-  "pick_return": 0.743,
+  "pick_return": 0.742,
   "bet_races": 283,
   "bet_pnl": -5550
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 629,
+  "races": 631,
   "fav_win": 0.506,
-  "pick_hit": 0.232,
-  "pick_return": 0.713,
+  "pick_hit": 0.231,
+  "pick_return": 0.711,
   "bet_races": 114,
   "bet_pnl": -1360
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1836,
-  "fav_win": 0.58,
-  "pick_hit": 0.258,
-  "pick_return": 0.744,
+  "races": 1838,
+  "fav_win": 0.579,
+  "pick_hit": 0.257,
+  "pick_return": 0.743,
   "bet_races": 278,
   "bet_pnl": -5690
  },
@@ -312,20 +312,20 @@
  {
   "axis": "場",
   "name": "多摩川",
-  "races": 63,
-  "fav_win": 0.508,
-  "pick_hit": 0.254,
-  "pick_return": 0.693,
+  "races": 64,
+  "fav_win": 0.5,
+  "pick_hit": 0.25,
+  "pick_return": 0.682,
   "bet_races": 11,
   "bet_pnl": 190
  },
  {
   "axis": "場",
   "name": "戸田",
-  "races": 58,
-  "fav_win": 0.552,
-  "pick_hit": 0.276,
-  "pick_return": 1.116,
+  "races": 59,
+  "fav_win": 0.559,
+  "pick_hit": 0.271,
+  "pick_return": 1.097,
   "bet_races": 4,
   "bet_pnl": -400
  },
