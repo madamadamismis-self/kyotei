@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2176,
+  "races": 2179,
   "fav_win": 0.567,
   "pick_hit": 0.25,
   "pick_return": 0.752,
@@ -12,10 +12,10 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2140,
+  "races": 2143,
   "fav_win": 0.567,
   "pick_hit": 0.25,
-  "pick_return": 0.753,
+  "pick_return": 0.752,
   "bet_races": 286,
   "bet_pnl": -5610
  },
@@ -82,8 +82,8 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 987,
-  "fav_win": 0.714,
+  "races": 989,
+  "fav_win": 0.715,
   "pick_hit": 0.302,
   "pick_return": 0.781,
   "bet_races": 159,
@@ -102,17 +102,17 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 525,
+  "races": 526,
   "fav_win": 0.371,
   "pick_hit": 0.173,
-  "pick_return": 0.737,
+  "pick_return": 0.735,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1941,
+  "races": 1944,
   "fav_win": 0.582,
   "pick_hit": 0.258,
   "pick_return": 0.753,
@@ -232,10 +232,10 @@
  {
   "axis": "場",
   "name": "芦屋",
-  "races": 99,
-  "fav_win": 0.636,
-  "pick_hit": 0.242,
-  "pick_return": 0.666,
+  "races": 100,
+  "fav_win": 0.64,
+  "pick_hit": 0.24,
+  "pick_return": 0.659,
   "bet_races": 19,
   "bet_pnl": -930
  },
@@ -281,6 +281,16 @@
  },
  {
   "axis": "場",
+  "name": "多摩川",
+  "races": 74,
+  "fav_win": 0.527,
+  "pick_hit": 0.284,
+  "pick_return": 0.871,
+  "bet_races": 12,
+  "bet_pnl": 90
+ },
+ {
+  "axis": "場",
   "name": "尼崎",
   "races": 74,
   "fav_win": 0.689,
@@ -301,16 +311,6 @@
  },
  {
   "axis": "場",
-  "name": "多摩川",
-  "races": 73,
-  "fav_win": 0.521,
-  "pick_hit": 0.274,
-  "pick_return": 0.856,
-  "bet_races": 12,
-  "bet_pnl": 90
- },
- {
-  "axis": "場",
   "name": "蒲郡",
   "races": 72,
   "fav_win": 0.625,
@@ -322,10 +322,10 @@
  {
   "axis": "場",
   "name": "戸田",
-  "races": 68,
-  "fav_win": 0.515,
-  "pick_hit": 0.265,
-  "pick_return": 1.036,
+  "races": 69,
+  "fav_win": 0.507,
+  "pick_hit": 0.261,
+  "pick_return": 1.021,
   "bet_races": 4,
   "bet_pnl": -400
  },
