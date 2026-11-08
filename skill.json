@@ -2,8 +2,8 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2174,
-  "fav_win": 0.568,
+  "races": 2176,
+  "fav_win": 0.567,
   "pick_hit": 0.25,
   "pick_return": 0.752,
   "bet_races": 301,
@@ -12,10 +12,10 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2138,
-  "fav_win": 0.568,
+  "races": 2140,
+  "fav_win": 0.567,
   "pick_hit": 0.25,
-  "pick_return": 0.752,
+  "pick_return": 0.753,
   "bet_races": 286,
   "bet_pnl": -5610
  },
@@ -92,30 +92,30 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 663,
-  "fav_win": 0.504,
-  "pick_hit": 0.232,
-  "pick_return": 0.719,
+  "races": 664,
+  "fav_win": 0.503,
+  "pick_hit": 0.233,
+  "pick_return": 0.722,
   "bet_races": 115,
   "bet_pnl": -1460
  },
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 524,
-  "fav_win": 0.372,
-  "pick_hit": 0.174,
-  "pick_return": 0.738,
+  "races": 525,
+  "fav_win": 0.371,
+  "pick_hit": 0.173,
+  "pick_return": 0.737,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 1939,
-  "fav_win": 0.583,
-  "pick_hit": 0.257,
-  "pick_return": 0.752,
+  "races": 1941,
+  "fav_win": 0.582,
+  "pick_hit": 0.258,
+  "pick_return": 0.753,
   "bet_races": 281,
   "bet_pnl": -5750
  },
@@ -211,6 +211,16 @@
  },
  {
   "axis": "場",
+  "name": "常滑",
+  "races": 103,
+  "fav_win": 0.621,
+  "pick_hit": 0.223,
+  "pick_return": 0.645,
+  "bet_races": 19,
+  "bet_pnl": -1010
+ },
+ {
+  "axis": "場",
   "name": "宮島",
   "races": 102,
   "fav_win": 0.549,
@@ -218,16 +228,6 @@
   "pick_return": 0.836,
   "bet_races": 17,
   "bet_pnl": -1580
- },
- {
-  "axis": "場",
-  "name": "常滑",
-  "races": 102,
-  "fav_win": 0.627,
-  "pick_hit": 0.225,
-  "pick_return": 0.651,
-  "bet_races": 19,
-  "bet_pnl": -1010
  },
  {
   "axis": "場",
@@ -272,10 +272,10 @@
  {
   "axis": "場",
   "name": "びわこ",
-  "races": 80,
-  "fav_win": 0.588,
-  "pick_hit": 0.212,
-  "pick_return": 0.835,
+  "races": 81,
+  "fav_win": 0.58,
+  "pick_hit": 0.222,
+  "pick_return": 0.856,
   "bet_races": 18,
   "bet_pnl": -170
  },
