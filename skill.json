@@ -2,17 +2,17 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2348,
+  "races": 2352,
   "fav_win": 0.564,
   "pick_hit": 0.251,
-  "pick_return": 0.762,
+  "pick_return": 0.763,
   "bet_races": 310,
   "bet_pnl": -8710
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2312,
+  "races": 2316,
   "fav_win": 0.564,
   "pick_hit": 0.251,
   "pick_return": 0.763,
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1074,
+  "races": 1076,
   "fav_win": 0.707,
   "pick_hit": 0.304,
-  "pick_return": 0.787,
+  "pick_return": 0.789,
   "bet_races": 166,
   "bet_pnl": -5430
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 712,
+  "races": 714,
   "fav_win": 0.503,
-  "pick_hit": 0.236,
-  "pick_return": 0.757,
+  "pick_hit": 0.235,
+  "pick_return": 0.755,
   "bet_races": 117,
   "bet_pnl": -1660
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2095,
-  "fav_win": 0.579,
+  "races": 2099,
+  "fav_win": 0.58,
   "pick_hit": 0.26,
-  "pick_return": 0.768,
+  "pick_return": 0.769,
   "bet_races": 290,
   "bet_pnl": -6650
  },
@@ -272,10 +272,10 @@
  {
   "axis": "場",
   "name": "多摩川",
-  "races": 88,
-  "fav_win": 0.534,
-  "pick_hit": 0.261,
-  "pick_return": 0.817,
+  "races": 89,
+  "fav_win": 0.539,
+  "pick_hit": 0.258,
+  "pick_return": 0.808,
   "bet_races": 12,
   "bet_pnl": 90
  },
@@ -288,6 +288,16 @@
   "pick_return": 0.854,
   "bet_races": 8,
   "bet_pnl": -240
+ },
+ {
+  "axis": "場",
+  "name": "住之江",
+  "races": 74,
+  "fav_win": 0.581,
+  "pick_hit": 0.257,
+  "pick_return": 0.764,
+  "bet_races": 9,
+  "bet_pnl": -760
  },
  {
   "axis": "場",
@@ -311,13 +321,13 @@
  },
  {
   "axis": "場",
-  "name": "住之江",
+  "name": "蒲郡",
   "races": 73,
-  "fav_win": 0.575,
+  "fav_win": 0.63,
   "pick_hit": 0.247,
-  "pick_return": 0.722,
-  "bet_races": 9,
-  "bet_pnl": -760
+  "pick_return": 0.79,
+  "bet_races": 10,
+  "bet_pnl": 510
  },
  {
   "axis": "場",
@@ -331,21 +341,11 @@
  },
  {
   "axis": "場",
-  "name": "蒲郡",
-  "races": 72,
-  "fav_win": 0.625,
-  "pick_hit": 0.25,
-  "pick_return": 0.801,
-  "bet_races": 10,
-  "bet_pnl": 510
- },
- {
-  "axis": "場",
   "name": "下関",
-  "races": 66,
-  "fav_win": 0.742,
-  "pick_hit": 0.409,
-  "pick_return": 1.195,
+  "races": 67,
+  "fav_win": 0.731,
+  "pick_hit": 0.403,
+  "pick_return": 1.177,
   "bet_races": 3,
   "bet_pnl": -300
  },
