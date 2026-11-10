@@ -2,22 +2,22 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2252,
+  "races": 2255,
   "fav_win": 0.567,
   "pick_hit": 0.251,
-  "pick_return": 0.754,
-  "bet_races": 304,
-  "bet_pnl": -8110
+  "pick_return": 0.753,
+  "bet_races": 305,
+  "bet_pnl": -8210
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2216,
+  "races": 2219,
   "fav_win": 0.567,
   "pick_hit": 0.251,
-  "pick_return": 0.754,
-  "bet_races": 289,
-  "bet_pnl": -5910
+  "pick_return": 0.753,
+  "bet_races": 290,
+  "bet_pnl": -6010
  },
  {
   "axis": "使ったモデル",
@@ -42,12 +42,12 @@
  {
   "axis": "買った券種",
   "name": "2連単",
-  "races": 85,
-  "fav_win": 0.612,
-  "pick_hit": 0.235,
-  "pick_return": 0.615,
-  "bet_races": 85,
-  "bet_pnl": -410
+  "races": 86,
+  "fav_win": 0.616,
+  "pick_hit": 0.233,
+  "pick_return": 0.607,
+  "bet_races": 86,
+  "bet_pnl": -510
  },
  {
   "axis": "買った券種",
@@ -82,12 +82,12 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1036,
+  "races": 1039,
   "fav_win": 0.708,
-  "pick_hit": 0.302,
-  "pick_return": 0.779,
-  "bet_races": 162,
-  "bet_pnl": -5030
+  "pick_hit": 0.301,
+  "pick_return": 0.777,
+  "bet_races": 163,
+  "bet_pnl": -5130
  },
  {
   "axis": "本命の強さ",
@@ -112,12 +112,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2010,
+  "races": 2013,
   "fav_win": 0.582,
-  "pick_hit": 0.259,
-  "pick_return": 0.756,
-  "bet_races": 284,
-  "bet_pnl": -6050
+  "pick_hit": 0.258,
+  "pick_return": 0.755,
+  "bet_races": 285,
+  "bet_pnl": -6150
  },
  {
   "axis": "本命の枠",
@@ -212,20 +212,20 @@
  {
   "axis": "場",
   "name": "常滑",
-  "races": 107,
-  "fav_win": 0.626,
-  "pick_hit": 0.215,
-  "pick_return": 0.621,
+  "races": 108,
+  "fav_win": 0.62,
+  "pick_hit": 0.213,
+  "pick_return": 0.615,
   "bet_races": 20,
   "bet_pnl": -1110
  },
  {
   "axis": "場",
   "name": "芦屋",
-  "races": 105,
-  "fav_win": 0.638,
-  "pick_hit": 0.248,
-  "pick_return": 0.676,
+  "races": 106,
+  "fav_win": 0.642,
+  "pick_hit": 0.245,
+  "pick_return": 0.669,
   "bet_races": 19,
   "bet_pnl": -930
  },
@@ -262,12 +262,12 @@
  {
   "axis": "場",
   "name": "びわこ",
-  "races": 85,
-  "fav_win": 0.576,
-  "pick_hit": 0.235,
-  "pick_return": 0.865,
-  "bet_races": 19,
-  "bet_pnl": -270
+  "races": 86,
+  "fav_win": 0.581,
+  "pick_hit": 0.233,
+  "pick_return": 0.855,
+  "bet_races": 20,
+  "bet_pnl": -370
  },
  {
   "axis": "場",
