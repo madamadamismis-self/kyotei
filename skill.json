@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2255,
+  "races": 2258,
   "fav_win": 0.567,
-  "pick_hit": 0.251,
-  "pick_return": 0.753,
+  "pick_hit": 0.25,
+  "pick_return": 0.752,
   "bet_races": 305,
   "bet_pnl": -8210
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2219,
+  "races": 2222,
   "fav_win": 0.567,
-  "pick_hit": 0.251,
-  "pick_return": 0.753,
+  "pick_hit": 0.25,
+  "pick_return": 0.752,
   "bet_races": 290,
   "bet_pnl": -6010
  },
@@ -82,10 +82,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1039,
+  "races": 1040,
   "fav_win": 0.708,
   "pick_hit": 0.301,
-  "pick_return": 0.777,
+  "pick_return": 0.776,
   "bet_races": 163,
   "bet_pnl": -5130
  },
@@ -102,20 +102,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 538,
-  "fav_win": 0.375,
-  "pick_hit": 0.175,
-  "pick_return": 0.74,
+  "races": 540,
+  "fav_win": 0.376,
+  "pick_hit": 0.174,
+  "pick_return": 0.738,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2013,
+  "races": 2016,
   "fav_win": 0.582,
   "pick_hit": 0.258,
-  "pick_return": 0.755,
+  "pick_return": 0.754,
   "bet_races": 285,
   "bet_pnl": -6150
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "津",
-  "races": 110,
-  "fav_win": 0.609,
-  "pick_hit": 0.245,
-  "pick_return": 0.691,
+  "races": 111,
+  "fav_win": 0.604,
+  "pick_hit": 0.243,
+  "pick_return": 0.685,
   "bet_races": 13,
   "bet_pnl": -110
  },
@@ -252,10 +252,10 @@
  {
   "axis": "場",
   "name": "三国",
-  "races": 98,
-  "fav_win": 0.449,
-  "pick_hit": 0.214,
-  "pick_return": 0.68,
+  "races": 99,
+  "fav_win": 0.444,
+  "pick_hit": 0.212,
+  "pick_return": 0.673,
   "bet_races": 13,
   "bet_pnl": -650
  },
@@ -282,10 +282,10 @@
  {
   "axis": "場",
   "name": "多摩川",
-  "races": 78,
-  "fav_win": 0.538,
-  "pick_hit": 0.282,
-  "pick_return": 0.872,
+  "races": 79,
+  "fav_win": 0.544,
+  "pick_hit": 0.278,
+  "pick_return": 0.861,
   "bet_races": 12,
   "bet_pnl": 90
  },
