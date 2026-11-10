@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2347,
+  "races": 2348,
   "fav_win": 0.564,
   "pick_hit": 0.251,
-  "pick_return": 0.761,
+  "pick_return": 0.762,
   "bet_races": 310,
   "bet_pnl": -8710
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2311,
+  "races": 2312,
   "fav_win": 0.564,
   "pick_hit": 0.251,
-  "pick_return": 0.761,
+  "pick_return": 0.763,
   "bet_races": 295,
   "bet_pnl": -6510
  },
@@ -102,20 +102,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 561,
-  "fav_win": 0.367,
-  "pick_hit": 0.169,
-  "pick_return": 0.716,
+  "races": 562,
+  "fav_win": 0.368,
+  "pick_hit": 0.171,
+  "pick_return": 0.722,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2094,
+  "races": 2095,
   "fav_win": 0.579,
-  "pick_hit": 0.259,
-  "pick_return": 0.767,
+  "pick_hit": 0.26,
+  "pick_return": 0.768,
   "bet_races": 290,
   "bet_pnl": -6650
  },
@@ -262,10 +262,10 @@
  {
   "axis": "場",
   "name": "びわこ",
-  "races": 95,
-  "fav_win": 0.579,
-  "pick_hit": 0.232,
-  "pick_return": 0.817,
+  "races": 96,
+  "fav_win": 0.583,
+  "pick_hit": 0.24,
+  "pick_return": 0.854,
   "bet_races": 20,
   "bet_pnl": -370
  },
