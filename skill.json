@@ -2,8 +2,8 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2455,
-  "fav_win": 0.563,
+  "races": 2456,
+  "fav_win": 0.564,
   "pick_hit": 0.25,
   "pick_return": 0.761,
   "bet_races": 329,
@@ -12,8 +12,8 @@
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2419,
-  "fav_win": 0.563,
+  "races": 2420,
+  "fav_win": 0.564,
   "pick_hit": 0.25,
   "pick_return": 0.761,
   "bet_races": 314,
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 740,
-  "fav_win": 0.5,
+  "races": 741,
+  "fav_win": 0.501,
   "pick_hit": 0.235,
-  "pick_return": 0.751,
+  "pick_return": 0.75,
   "bet_races": 127,
   "bet_pnl": -2820
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 259,
-  "fav_win": 0.432,
+  "races": 260,
+  "fav_win": 0.435,
   "pick_hit": 0.181,
-  "pick_return": 0.711,
+  "pick_return": 0.709,
   "bet_races": 20,
   "bet_pnl": -2060
  },
@@ -162,10 +162,10 @@
  {
   "axis": "場",
   "name": "平和島",
-  "races": 129,
-  "fav_win": 0.465,
-  "pick_hit": 0.147,
-  "pick_return": 0.65,
+  "races": 130,
+  "fav_win": 0.469,
+  "pick_hit": 0.146,
+  "pick_return": 0.645,
   "bet_races": 14,
   "bet_pnl": -1120
  },
