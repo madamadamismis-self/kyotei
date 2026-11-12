@@ -2,20 +2,20 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2465,
+  "races": 2468,
   "fav_win": 0.564,
-  "pick_hit": 0.251,
-  "pick_return": 0.763,
+  "pick_hit": 0.25,
+  "pick_return": 0.762,
   "bet_races": 332,
   "bet_pnl": -11270
  },
  {
   "axis": "使ったモデル",
   "name": "学習モデル",
-  "races": 2429,
-  "fav_win": 0.564,
-  "pick_hit": 0.251,
-  "pick_return": 0.763,
+  "races": 2432,
+  "fav_win": 0.565,
+  "pick_hit": 0.25,
+  "pick_return": 0.762,
   "bet_races": 317,
   "bet_pnl": -9070
  },
@@ -82,20 +82,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1139,
+  "races": 1141,
   "fav_win": 0.705,
   "pick_hit": 0.301,
-  "pick_return": 0.789,
+  "pick_return": 0.788,
   "bet_races": 177,
   "bet_pnl": -6730
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 745,
-  "fav_win": 0.503,
+  "races": 746,
+  "fav_win": 0.504,
   "pick_hit": 0.236,
-  "pick_return": 0.756,
+  "pick_return": 0.755,
   "bet_races": 128,
   "bet_pnl": -2920
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2204,
+  "races": 2207,
   "fav_win": 0.58,
   "pick_hit": 0.259,
-  "pick_return": 0.77,
+  "pick_return": 0.769,
   "bet_races": 312,
   "bet_pnl": -9210
  },
@@ -142,10 +142,10 @@
  {
   "axis": "場",
   "name": "福岡",
-  "races": 136,
-  "fav_win": 0.544,
-  "pick_hit": 0.272,
-  "pick_return": 0.751,
+  "races": 137,
+  "fav_win": 0.547,
+  "pick_hit": 0.27,
+  "pick_return": 0.745,
   "bet_races": 21,
   "bet_pnl": 30
  },
@@ -222,10 +222,10 @@
  {
   "axis": "場",
   "name": "芦屋",
-  "races": 113,
-  "fav_win": 0.646,
-  "pick_hit": 0.265,
-  "pick_return": 0.735,
+  "races": 114,
+  "fav_win": 0.649,
+  "pick_hit": 0.263,
+  "pick_return": 0.729,
   "bet_races": 19,
   "bet_pnl": -930
  },
@@ -352,10 +352,10 @@
  {
   "axis": "場",
   "name": "児島",
-  "races": 60,
-  "fav_win": 0.483,
-  "pick_hit": 0.267,
-  "pick_return": 0.814,
+  "races": 61,
+  "fav_win": 0.475,
+  "pick_hit": 0.262,
+  "pick_return": 0.801,
   "bet_races": 11,
   "bet_pnl": -1400
  },
