@@ -2,13 +2,13 @@
  {
   "hd": "20261113",
   "initial": 8530,
-  "bankroll": 8130,
-  "pnl": -400,
-  "in_play": 100,
+  "bankroll": 8030,
+  "pnl": -500,
+  "in_play": 0,
   "races_total": 135,
-  "races_settled": 105,
+  "races_settled": 107,
   "races_bet": 27,
   "hits": 4,
-  "updated": "2026-11-13 16:26"
+  "updated": "2026-11-13 16:36"
  }
 ]
