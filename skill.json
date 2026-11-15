@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2758,
+  "races": 2760,
   "fav_win": 0.564,
   "pick_hit": 0.249,
   "pick_return": 0.763,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 110,
-  "fav_win": 0.573,
-  "pick_hit": 0.236,
-  "pick_return": 0.835,
+  "races": 112,
+  "fav_win": 0.571,
+  "pick_hit": 0.241,
+  "pick_return": 0.844,
   "bet_races": 25,
   "bet_pnl": 100
  },
@@ -102,40 +102,40 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 821,
-  "fav_win": 0.51,
-  "pick_hit": 0.235,
-  "pick_return": 0.745,
+  "races": 822,
+  "fav_win": 0.511,
+  "pick_hit": 0.236,
+  "pick_return": 0.747,
   "bet_races": 145,
   "bet_pnl": -2780
  },
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 667,
-  "fav_win": 0.366,
+  "races": 668,
+  "fav_win": 0.365,
   "pick_hit": 0.169,
-  "pick_return": 0.737,
+  "pick_return": 0.736,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2450,
+  "races": 2451,
   "fav_win": 0.581,
-  "pick_hit": 0.258,
-  "pick_return": 0.769,
+  "pick_hit": 0.259,
+  "pick_return": 0.77,
   "bet_races": 380,
   "bet_pnl": -8340
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 308,
-  "fav_win": 0.425,
+  "races": 309,
+  "fav_win": 0.424,
   "pick_hit": 0.175,
-  "pick_return": 0.715,
+  "pick_return": 0.713,
   "bet_races": 21,
   "bet_pnl": -2160
  },
@@ -152,10 +152,10 @@
  {
   "axis": "場",
   "name": "福岡",
-  "races": 163,
-  "fav_win": 0.534,
-  "pick_hit": 0.252,
-  "pick_return": 0.7,
+  "races": 164,
+  "fav_win": 0.537,
+  "pick_hit": 0.256,
+  "pick_return": 0.713,
   "bet_races": 26,
   "bet_pnl": -310
  },
@@ -372,10 +372,10 @@
  {
   "axis": "場",
   "name": "若松",
-  "races": 53,
-  "fav_win": 0.491,
-  "pick_hit": 0.245,
-  "pick_return": 0.701,
+  "races": 54,
+  "fav_win": 0.481,
+  "pick_hit": 0.241,
+  "pick_return": 0.688,
   "bet_races": 12,
   "bet_pnl": -230
  }
