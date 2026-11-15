@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2701,
+  "races": 2703,
   "fav_win": 0.562,
   "pick_hit": 0.248,
-  "pick_return": 0.756,
+  "pick_return": 0.755,
   "bet_races": 388,
   "bet_pnl": -11220
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 53,
-  "fav_win": 0.491,
-  "pick_hit": 0.151,
-  "pick_return": 0.558,
+  "races": 55,
+  "fav_win": 0.473,
+  "pick_hit": 0.145,
+  "pick_return": 0.538,
   "bet_races": 12,
   "bet_pnl": -620
  },
@@ -92,9 +92,9 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1235,
+  "races": 1236,
   "fav_win": 0.701,
-  "pick_hit": 0.3,
+  "pick_hit": 0.299,
   "pick_return": 0.788,
   "bet_races": 218,
   "bet_pnl": -6990
@@ -102,10 +102,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 809,
-  "fav_win": 0.511,
-  "pick_hit": 0.234,
-  "pick_return": 0.74,
+  "races": 810,
+  "fav_win": 0.51,
+  "pick_hit": 0.233,
+  "pick_return": 0.739,
   "bet_races": 143,
   "bet_pnl": -2610
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2397,
+  "races": 2399,
   "fav_win": 0.579,
   "pick_hit": 0.257,
-  "pick_return": 0.768,
+  "pick_return": 0.767,
   "bet_races": 367,
   "bet_pnl": -9060
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 128,
-  "fav_win": 0.484,
-  "pick_hit": 0.188,
-  "pick_return": 0.758,
+  "races": 129,
+  "fav_win": 0.481,
+  "pick_hit": 0.186,
+  "pick_return": 0.752,
   "bet_races": 24,
   "bet_pnl": 710
  },
@@ -282,10 +282,10 @@
  {
   "axis": "場",
   "name": "びわこ",
-  "races": 103,
-  "fav_win": 0.573,
-  "pick_hit": 0.233,
-  "pick_return": 0.875,
+  "races": 104,
+  "fav_win": 0.567,
+  "pick_hit": 0.231,
+  "pick_return": 0.866,
   "bet_races": 22,
   "bet_pnl": -300
  },
