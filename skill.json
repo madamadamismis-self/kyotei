@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2749,
+  "races": 2753,
   "fav_win": 0.564,
   "pick_hit": 0.249,
-  "pick_return": 0.764,
+  "pick_return": 0.763,
   "bet_races": 400,
   "bet_pnl": -10300
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 101,
-  "fav_win": 0.574,
+  "races": 105,
+  "fav_win": 0.571,
   "pick_hit": 0.238,
-  "pick_return": 0.868,
+  "pick_return": 0.85,
   "bet_races": 24,
   "bet_pnl": 300
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1263,
-  "fav_win": 0.704,
+  "races": 1267,
+  "fav_win": 0.703,
   "pick_hit": 0.3,
-  "pick_return": 0.789,
+  "pick_return": 0.788,
   "bet_races": 229,
   "bet_pnl": -6100
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2441,
+  "races": 2445,
   "fav_win": 0.581,
-  "pick_hit": 0.259,
-  "pick_return": 0.77,
+  "pick_hit": 0.258,
+  "pick_return": 0.769,
   "bet_races": 379,
   "bet_pnl": -8140
  },
@@ -162,10 +162,10 @@
  {
   "axis": "場",
   "name": "津",
-  "races": 152,
-  "fav_win": 0.599,
-  "pick_hit": 0.276,
-  "pick_return": 0.834,
+  "races": 153,
+  "fav_win": 0.601,
+  "pick_hit": 0.275,
+  "pick_return": 0.829,
   "bet_races": 22,
   "bet_pnl": 120
  },
@@ -182,20 +182,20 @@
  {
   "axis": "場",
   "name": "常滑",
-  "races": 139,
-  "fav_win": 0.626,
-  "pick_hit": 0.23,
-  "pick_return": 0.652,
+  "races": 140,
+  "fav_win": 0.629,
+  "pick_hit": 0.236,
+  "pick_return": 0.659,
   "bet_races": 26,
   "bet_pnl": -1710
  },
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 133,
-  "fav_win": 0.489,
-  "pick_hit": 0.195,
-  "pick_return": 0.778,
+  "races": 134,
+  "fav_win": 0.485,
+  "pick_hit": 0.194,
+  "pick_return": 0.772,
   "bet_races": 26,
   "bet_pnl": 1310
  },
@@ -291,6 +291,16 @@
  },
  {
   "axis": "場",
+  "name": "尼崎",
+  "races": 102,
+  "fav_win": 0.647,
+  "pick_hit": 0.314,
+  "pick_return": 0.823,
+  "bet_races": 24,
+  "bet_pnl": -1460
+ },
+ {
+  "axis": "場",
   "name": "唐津",
   "races": 102,
   "fav_win": 0.657,
@@ -298,16 +308,6 @@
   "pick_return": 0.81,
   "bet_races": 9,
   "bet_pnl": -340
- },
- {
-  "axis": "場",
-  "name": "尼崎",
-  "races": 101,
-  "fav_win": 0.653,
-  "pick_hit": 0.317,
-  "pick_return": 0.831,
-  "bet_races": 24,
-  "bet_pnl": -1460
  },
  {
   "axis": "場",
