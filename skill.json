@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2694,
+  "races": 2697,
   "fav_win": 0.562,
   "pick_hit": 0.248,
-  "pick_return": 0.756,
+  "pick_return": 0.757,
   "bet_races": 387,
   "bet_pnl": -11120
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 46,
-  "fav_win": 0.478,
-  "pick_hit": 0.13,
-  "pick_return": 0.558,
+  "races": 49,
+  "fav_win": 0.469,
+  "pick_hit": 0.143,
+  "pick_return": 0.578,
   "bet_races": 11,
   "bet_pnl": -520
  },
@@ -112,30 +112,30 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 653,
+  "races": 656,
   "fav_win": 0.363,
-  "pick_hit": 0.167,
-  "pick_return": 0.716,
+  "pick_hit": 0.168,
+  "pick_return": 0.717,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2393,
+  "races": 2394,
   "fav_win": 0.579,
   "pick_hit": 0.257,
-  "pick_return": 0.767,
+  "pick_return": 0.768,
   "bet_races": 366,
   "bet_pnl": -8960
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 301,
-  "fav_win": 0.429,
-  "pick_hit": 0.173,
-  "pick_return": 0.671,
+  "races": 303,
+  "fav_win": 0.426,
+  "pick_hit": 0.172,
+  "pick_return": 0.667,
   "bet_races": 21,
   "bet_pnl": -2160
  },
@@ -152,10 +152,10 @@
  {
   "axis": "場",
   "name": "福岡",
-  "races": 157,
-  "fav_win": 0.522,
-  "pick_hit": 0.255,
-  "pick_return": 0.71,
+  "races": 158,
+  "fav_win": 0.525,
+  "pick_hit": 0.259,
+  "pick_return": 0.722,
   "bet_races": 26,
   "bet_pnl": -310
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 127,
-  "fav_win": 0.488,
-  "pick_hit": 0.189,
-  "pick_return": 0.764,
+  "races": 128,
+  "fav_win": 0.484,
+  "pick_hit": 0.188,
+  "pick_return": 0.758,
   "bet_races": 24,
   "bet_pnl": 710
  },
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "唐津",
-  "races": 99,
-  "fav_win": 0.657,
-  "pick_hit": 0.293,
-  "pick_return": 0.81,
+  "races": 100,
+  "fav_win": 0.65,
+  "pick_hit": 0.29,
+  "pick_return": 0.802,
   "bet_races": 9,
   "bet_pnl": -340
  },
