@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2714,
+  "races": 2717,
   "fav_win": 0.562,
   "pick_hit": 0.248,
-  "pick_return": 0.757,
+  "pick_return": 0.758,
   "bet_races": 390,
   "bet_pnl": -11290
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 66,
-  "fav_win": 0.5,
-  "pick_hit": 0.182,
-  "pick_return": 0.648,
+  "races": 69,
+  "fav_win": 0.507,
+  "pick_hit": 0.188,
+  "pick_return": 0.667,
   "bet_races": 14,
   "bet_pnl": -690
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1242,
-  "fav_win": 0.701,
+  "races": 1244,
+  "fav_win": 0.702,
   "pick_hit": 0.299,
-  "pick_return": 0.785,
+  "pick_return": 0.787,
   "bet_races": 219,
   "bet_pnl": -7090
  },
@@ -112,19 +112,19 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 661,
+  "races": 662,
   "fav_win": 0.363,
   "pick_hit": 0.169,
-  "pick_return": 0.725,
+  "pick_return": 0.724,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2408,
+  "races": 2411,
   "fav_win": 0.579,
-  "pick_hit": 0.257,
+  "pick_hit": 0.258,
   "pick_return": 0.767,
   "bet_races": 369,
   "bet_pnl": -9130
@@ -152,10 +152,10 @@
  {
   "axis": "場",
   "name": "福岡",
-  "races": 159,
-  "fav_win": 0.528,
-  "pick_hit": 0.258,
-  "pick_return": 0.718,
+  "races": 160,
+  "fav_win": 0.531,
+  "pick_hit": 0.256,
+  "pick_return": 0.713,
   "bet_races": 26,
   "bet_pnl": -310
  },
@@ -182,10 +182,10 @@
  {
   "axis": "場",
   "name": "常滑",
-  "races": 136,
-  "fav_win": 0.64,
-  "pick_hit": 0.235,
-  "pick_return": 0.666,
+  "races": 137,
+  "fav_win": 0.635,
+  "pick_hit": 0.234,
+  "pick_return": 0.662,
   "bet_races": 26,
   "bet_pnl": -1710
  },
@@ -362,10 +362,10 @@
  {
   "axis": "場",
   "name": "徳山",
-  "races": 81,
-  "fav_win": 0.605,
-  "pick_hit": 0.222,
-  "pick_return": 0.573,
+  "races": 82,
+  "fav_win": 0.61,
+  "pick_hit": 0.232,
+  "pick_return": 0.605,
   "bet_races": 12,
   "bet_pnl": 390
  },
