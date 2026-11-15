@@ -2,12 +2,12 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2684,
+  "races": 2687,
   "fav_win": 0.563,
-  "pick_hit": 0.249,
-  "pick_return": 0.759,
-  "bet_races": 384,
-  "bet_pnl": -11130
+  "pick_hit": 0.248,
+  "pick_return": 0.758,
+  "bet_races": 385,
+  "bet_pnl": -11230
  },
  {
   "axis": "使ったモデル",
@@ -21,6 +21,16 @@
  },
  {
   "axis": "使ったモデル",
+  "name": "Fableモデル（11/15〜）",
+  "races": 39,
+  "fav_win": 0.513,
+  "pick_hit": 0.154,
+  "pick_return": 0.658,
+  "bet_races": 9,
+  "bet_pnl": -630
+ },
+ {
+  "axis": "使ったモデル",
   "name": "手作りルール",
   "races": 36,
   "fav_win": 0.556,
@@ -30,24 +40,14 @@
   "bet_pnl": -2200
  },
  {
-  "axis": "使ったモデル",
-  "name": "Fableモデル（11/15〜）",
-  "races": 36,
-  "fav_win": 0.5,
-  "pick_hit": 0.167,
-  "pick_return": 0.713,
-  "bet_races": 8,
-  "bet_pnl": -530
- },
- {
   "axis": "買った券種",
   "name": "2連複",
-  "races": 135,
-  "fav_win": 0.696,
-  "pick_hit": 0.356,
-  "pick_return": 1.02,
-  "bet_races": 135,
-  "bet_pnl": -2880
+  "races": 136,
+  "fav_win": 0.691,
+  "pick_hit": 0.353,
+  "pick_return": 1.013,
+  "bet_races": 136,
+  "bet_pnl": -2980
  },
  {
   "axis": "買った券種",
@@ -92,7 +92,7 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1230,
+  "races": 1231,
   "fav_win": 0.701,
   "pick_hit": 0.3,
   "pick_return": 0.79,
@@ -102,12 +102,12 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 804,
+  "races": 806,
   "fav_win": 0.511,
-  "pick_hit": 0.235,
-  "pick_return": 0.744,
-  "bet_races": 141,
-  "bet_pnl": -2820
+  "pick_hit": 0.234,
+  "pick_return": 0.742,
+  "bet_races": 142,
+  "bet_pnl": -2920
  },
  {
   "axis": "本命の強さ",
@@ -122,22 +122,22 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2385,
-  "fav_win": 0.579,
+  "races": 2386,
+  "fav_win": 0.58,
   "pick_hit": 0.258,
-  "pick_return": 0.77,
+  "pick_return": 0.769,
   "bet_races": 364,
   "bet_pnl": -9070
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 299,
-  "fav_win": 0.428,
-  "pick_hit": 0.174,
-  "pick_return": 0.675,
-  "bet_races": 20,
-  "bet_pnl": -2060
+  "races": 301,
+  "fav_win": 0.429,
+  "pick_hit": 0.173,
+  "pick_return": 0.671,
+  "bet_races": 21,
+  "bet_pnl": -2160
  },
  {
   "axis": "場",
@@ -182,10 +182,10 @@
  {
   "axis": "場",
   "name": "常滑",
-  "races": 133,
-  "fav_win": 0.632,
-  "pick_hit": 0.241,
-  "pick_return": 0.681,
+  "races": 134,
+  "fav_win": 0.634,
+  "pick_hit": 0.239,
+  "pick_return": 0.676,
   "bet_races": 25,
   "bet_pnl": -1610
  },
@@ -202,12 +202,12 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 126,
-  "fav_win": 0.492,
-  "pick_hit": 0.19,
-  "pick_return": 0.77,
-  "bet_races": 23,
-  "bet_pnl": 810
+  "races": 127,
+  "fav_win": 0.488,
+  "pick_hit": 0.189,
+  "pick_return": 0.764,
+  "bet_races": 24,
+  "bet_pnl": 710
  },
  {
   "axis": "場",
@@ -292,10 +292,10 @@
  {
   "axis": "場",
   "name": "唐津",
-  "races": 98,
-  "fav_win": 0.653,
-  "pick_hit": 0.296,
-  "pick_return": 0.819,
+  "races": 99,
+  "fav_win": 0.657,
+  "pick_hit": 0.293,
+  "pick_return": 0.81,
   "bet_races": 9,
   "bet_pnl": -340
  },
