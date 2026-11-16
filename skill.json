@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2824,
+  "races": 2826,
   "fav_win": 0.566,
   "pick_hit": 0.252,
-  "pick_return": 0.767,
+  "pick_return": 0.766,
   "bet_races": 409,
   "bet_pnl": -11600
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 176,
-  "fav_win": 0.602,
-  "pick_hit": 0.284,
-  "pick_return": 0.874,
+  "races": 178,
+  "fav_win": 0.601,
+  "pick_hit": 0.281,
+  "pick_return": 0.864,
   "bet_races": 33,
   "bet_pnl": -1000
  },
@@ -92,20 +92,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1308,
+  "races": 1309,
   "fav_win": 0.701,
   "pick_hit": 0.303,
-  "pick_return": 0.79,
+  "pick_return": 0.789,
   "bet_races": 234,
   "bet_pnl": -6700
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 841,
-  "fav_win": 0.516,
+  "races": 842,
+  "fav_win": 0.515,
   "pick_hit": 0.24,
-  "pick_return": 0.763,
+  "pick_return": 0.762,
   "bet_races": 148,
   "bet_pnl": -3280
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2505,
+  "races": 2507,
   "fav_win": 0.584,
   "pick_hit": 0.261,
-  "pick_return": 0.774,
+  "pick_return": 0.773,
   "bet_races": 385,
   "bet_pnl": -8940
  },
@@ -291,6 +291,16 @@
  },
  {
   "axis": "場",
+  "name": "唐津",
+  "races": 108,
+  "fav_win": 0.676,
+  "pick_hit": 0.306,
+  "pick_return": 0.814,
+  "bet_races": 9,
+  "bet_pnl": -340
+ },
+ {
+  "axis": "場",
   "name": "尼崎",
   "races": 107,
   "fav_win": 0.654,
@@ -298,16 +308,6 @@
   "pick_return": 0.818,
   "bet_races": 26,
   "bet_pnl": -1760
- },
- {
-  "axis": "場",
-  "name": "唐津",
-  "races": 107,
-  "fav_win": 0.673,
-  "pick_hit": 0.308,
-  "pick_return": 0.821,
-  "bet_races": 9,
-  "bet_pnl": -340
  },
  {
   "axis": "場",
@@ -342,10 +342,10 @@
  {
   "axis": "場",
   "name": "児島",
-  "races": 93,
-  "fav_win": 0.495,
-  "pick_hit": 0.237,
-  "pick_return": 0.697,
+  "races": 94,
+  "fav_win": 0.489,
+  "pick_hit": 0.234,
+  "pick_return": 0.69,
   "bet_races": 23,
   "bet_pnl": -2580
  },
