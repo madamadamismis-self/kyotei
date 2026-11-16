@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2788,
+  "races": 2790,
   "fav_win": 0.564,
   "pick_hit": 0.251,
-  "pick_return": 0.766,
+  "pick_return": 0.767,
   "bet_races": 403,
   "bet_pnl": -10800
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 140,
-  "fav_win": 0.571,
-  "pick_hit": 0.279,
-  "pick_return": 0.877,
+  "races": 142,
+  "fav_win": 0.577,
+  "pick_hit": 0.282,
+  "pick_return": 0.89,
   "bet_races": 27,
   "bet_pnl": -200
  },
@@ -92,20 +92,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1292,
+  "races": 1293,
   "fav_win": 0.701,
-  "pick_hit": 0.303,
-  "pick_return": 0.793,
+  "pick_hit": 0.302,
+  "pick_return": 0.792,
   "bet_races": 230,
   "bet_pnl": -6200
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 826,
+  "races": 827,
   "fav_win": 0.511,
-  "pick_hit": 0.237,
-  "pick_return": 0.749,
+  "pick_hit": 0.238,
+  "pick_return": 0.753,
   "bet_races": 146,
   "bet_pnl": -2980
  },
@@ -122,8 +122,8 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2475,
-  "fav_win": 0.582,
+  "races": 2477,
+  "fav_win": 0.583,
   "pick_hit": 0.261,
   "pick_return": 0.774,
   "bet_races": 381,
@@ -182,10 +182,10 @@
  {
   "axis": "場",
   "name": "常滑",
-  "races": 140,
-  "fav_win": 0.629,
-  "pick_hit": 0.236,
-  "pick_return": 0.659,
+  "races": 141,
+  "fav_win": 0.631,
+  "pick_hit": 0.241,
+  "pick_return": 0.68,
   "bet_races": 26,
   "bet_pnl": -1710
  },
@@ -291,6 +291,16 @@
  },
  {
   "axis": "場",
+  "name": "尼崎",
+  "races": 103,
+  "fav_win": 0.65,
+  "pick_hit": 0.311,
+  "pick_return": 0.815,
+  "bet_races": 24,
+  "bet_pnl": -1460
+ },
+ {
+  "axis": "場",
   "name": "唐津",
   "races": 103,
   "fav_win": 0.66,
@@ -298,16 +308,6 @@
   "pick_return": 0.825,
   "bet_races": 9,
   "bet_pnl": -340
- },
- {
-  "axis": "場",
-  "name": "尼崎",
-  "races": 102,
-  "fav_win": 0.647,
-  "pick_hit": 0.314,
-  "pick_return": 0.823,
-  "bet_races": 24,
-  "bet_pnl": -1460
  },
  {
   "axis": "場",
