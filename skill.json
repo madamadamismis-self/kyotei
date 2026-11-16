@@ -2,9 +2,9 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2872,
+  "races": 2873,
   "fav_win": 0.567,
-  "pick_hit": 0.252,
+  "pick_hit": 0.253,
   "pick_return": 0.769,
   "bet_races": 419,
   "bet_pnl": -11510
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 224,
-  "fav_win": 0.603,
-  "pick_hit": 0.286,
-  "pick_return": 0.874,
+  "races": 225,
+  "fav_win": 0.604,
+  "pick_hit": 0.289,
+  "pick_return": 0.878,
   "bet_races": 43,
   "bet_pnl": -910
  },
@@ -92,9 +92,9 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1341,
+  "races": 1342,
   "fav_win": 0.7,
-  "pick_hit": 0.302,
+  "pick_hit": 0.303,
   "pick_return": 0.787,
   "bet_races": 243,
   "bet_pnl": -7380
@@ -122,9 +122,9 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2550,
+  "races": 2551,
   "fav_win": 0.584,
-  "pick_hit": 0.262,
+  "pick_hit": 0.263,
   "pick_return": 0.777,
   "bet_races": 395,
   "bet_pnl": -8850
@@ -142,10 +142,10 @@
  {
   "axis": "場",
   "name": "大村",
-  "races": 186,
-  "fav_win": 0.667,
-  "pick_hit": 0.317,
-  "pick_return": 0.826,
+  "races": 187,
+  "fav_win": 0.668,
+  "pick_hit": 0.321,
+  "pick_return": 0.83,
   "bet_races": 33,
   "bet_pnl": 810
  },
