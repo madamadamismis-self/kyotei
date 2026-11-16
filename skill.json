@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2853,
+  "races": 2854,
   "fav_win": 0.566,
   "pick_hit": 0.252,
   "pick_return": 0.769,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 205,
-  "fav_win": 0.595,
-  "pick_hit": 0.283,
-  "pick_return": 0.888,
+  "races": 206,
+  "fav_win": 0.597,
+  "pick_hit": 0.282,
+  "pick_return": 0.884,
   "bet_races": 40,
   "bet_pnl": -610
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 678,
-  "fav_win": 0.364,
+  "races": 679,
+  "fav_win": 0.365,
   "pick_hit": 0.168,
-  "pick_return": 0.738,
+  "pick_return": 0.737,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 321,
-  "fav_win": 0.427,
+  "races": 322,
+  "fav_win": 0.429,
   "pick_hit": 0.174,
-  "pick_return": 0.708,
+  "pick_return": 0.706,
   "bet_races": 24,
   "bet_pnl": -2660
  },
@@ -372,10 +372,10 @@
  {
   "axis": "場",
   "name": "若松",
-  "races": 64,
-  "fav_win": 0.469,
-  "pick_hit": 0.266,
-  "pick_return": 0.804,
+  "races": 65,
+  "fav_win": 0.477,
+  "pick_hit": 0.262,
+  "pick_return": 0.792,
   "bet_races": 12,
   "bet_pnl": -230
  }
