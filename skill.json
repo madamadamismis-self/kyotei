@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2867,
+  "races": 2868,
   "fav_win": 0.566,
-  "pick_hit": 0.253,
-  "pick_return": 0.77,
+  "pick_hit": 0.252,
+  "pick_return": 0.769,
   "bet_races": 419,
   "bet_pnl": -11510
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 219,
-  "fav_win": 0.594,
-  "pick_hit": 0.288,
-  "pick_return": 0.887,
+  "races": 220,
+  "fav_win": 0.595,
+  "pick_hit": 0.286,
+  "pick_return": 0.883,
   "bet_races": 43,
   "bet_pnl": -910
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1337,
-  "fav_win": 0.699,
+  "races": 1338,
+  "fav_win": 0.7,
   "pick_hit": 0.303,
-  "pick_return": 0.789,
+  "pick_return": 0.788,
   "bet_races": 243,
   "bet_pnl": -7380
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2545,
+  "races": 2546,
   "fav_win": 0.583,
   "pick_hit": 0.262,
-  "pick_return": 0.778,
+  "pick_return": 0.777,
   "bet_races": 395,
   "bet_pnl": -8850
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "丸亀",
-  "races": 139,
-  "fav_win": 0.54,
-  "pick_hit": 0.252,
-  "pick_return": 0.734,
+  "races": 140,
+  "fav_win": 0.543,
+  "pick_hit": 0.25,
+  "pick_return": 0.729,
   "bet_races": 14,
   "bet_pnl": -60
  },
