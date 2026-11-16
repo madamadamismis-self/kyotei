@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2800,
+  "races": 2802,
   "fav_win": 0.565,
   "pick_hit": 0.251,
   "pick_return": 0.767,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 152,
-  "fav_win": 0.599,
-  "pick_hit": 0.276,
-  "pick_return": 0.885,
+  "races": 154,
+  "fav_win": 0.597,
+  "pick_hit": 0.279,
+  "pick_return": 0.886,
   "bet_races": 28,
   "bet_pnl": -400
  },
@@ -92,20 +92,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1296,
+  "races": 1297,
   "fav_win": 0.702,
-  "pick_hit": 0.302,
-  "pick_return": 0.792,
+  "pick_hit": 0.303,
+  "pick_return": 0.793,
   "bet_races": 231,
   "bet_pnl": -6400
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 833,
-  "fav_win": 0.514,
-  "pick_hit": 0.238,
-  "pick_return": 0.755,
+  "races": 834,
+  "fav_win": 0.513,
+  "pick_hit": 0.237,
+  "pick_return": 0.754,
   "bet_races": 146,
   "bet_pnl": -2980
  },
@@ -122,7 +122,7 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2485,
+  "races": 2487,
   "fav_win": 0.584,
   "pick_hit": 0.261,
   "pick_return": 0.775,
@@ -291,6 +291,16 @@
  },
  {
   "axis": "場",
+  "name": "唐津",
+  "races": 105,
+  "fav_win": 0.667,
+  "pick_hit": 0.305,
+  "pick_return": 0.827,
+  "bet_races": 9,
+  "bet_pnl": -340
+ },
+ {
+  "axis": "場",
   "name": "尼崎",
   "races": 104,
   "fav_win": 0.654,
@@ -298,16 +308,6 @@
   "pick_return": 0.821,
   "bet_races": 25,
   "bet_pnl": -1660
- },
- {
-  "axis": "場",
-  "name": "唐津",
-  "races": 104,
-  "fav_win": 0.663,
-  "pick_hit": 0.298,
-  "pick_return": 0.817,
-  "bet_races": 9,
-  "bet_pnl": -340
  },
  {
   "axis": "場",
@@ -351,6 +351,16 @@
  },
  {
   "axis": "場",
+  "name": "徳山",
+  "races": 85,
+  "fav_win": 0.588,
+  "pick_hit": 0.224,
+  "pick_return": 0.584,
+  "bet_races": 13,
+  "bet_pnl": 190
+ },
+ {
+  "axis": "場",
   "name": "住之江",
   "races": 84,
   "fav_win": 0.595,
@@ -358,16 +368,6 @@
   "pick_return": 0.735,
   "bet_races": 9,
   "bet_pnl": -760
- },
- {
-  "axis": "場",
-  "name": "徳山",
-  "races": 84,
-  "fav_win": 0.595,
-  "pick_hit": 0.226,
-  "pick_return": 0.59,
-  "bet_races": 13,
-  "bet_pnl": 190
  },
  {
   "axis": "場",
