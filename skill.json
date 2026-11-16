@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2786,
+  "races": 2788,
   "fav_win": 0.564,
   "pick_hit": 0.251,
   "pick_return": 0.766,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 138,
-  "fav_win": 0.572,
-  "pick_hit": 0.275,
-  "pick_return": 0.873,
+  "races": 140,
+  "fav_win": 0.571,
+  "pick_hit": 0.279,
+  "pick_return": 0.877,
   "bet_races": 27,
   "bet_pnl": -200
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1291,
+  "races": 1292,
   "fav_win": 0.701,
-  "pick_hit": 0.302,
-  "pick_return": 0.792,
+  "pick_hit": 0.303,
+  "pick_return": 0.793,
   "bet_races": 230,
   "bet_pnl": -6200
  },
@@ -112,30 +112,30 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 669,
-  "fav_win": 0.365,
+  "races": 670,
+  "fav_win": 0.364,
   "pick_hit": 0.169,
-  "pick_return": 0.735,
+  "pick_return": 0.734,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2474,
+  "races": 2475,
   "fav_win": 0.582,
   "pick_hit": 0.261,
-  "pick_return": 0.773,
+  "pick_return": 0.774,
   "bet_races": 381,
   "bet_pnl": -8440
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 312,
-  "fav_win": 0.42,
+  "races": 313,
+  "fav_win": 0.419,
   "pick_hit": 0.173,
-  "pick_return": 0.706,
+  "pick_return": 0.703,
   "bet_races": 22,
   "bet_pnl": -2360
  },
@@ -192,10 +192,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 134,
-  "fav_win": 0.485,
-  "pick_hit": 0.194,
-  "pick_return": 0.772,
+  "races": 135,
+  "fav_win": 0.481,
+  "pick_hit": 0.193,
+  "pick_return": 0.766,
   "bet_races": 26,
   "bet_pnl": 1310
  },
@@ -291,6 +291,16 @@
  },
  {
   "axis": "場",
+  "name": "唐津",
+  "races": 103,
+  "fav_win": 0.66,
+  "pick_hit": 0.301,
+  "pick_return": 0.825,
+  "bet_races": 9,
+  "bet_pnl": -340
+ },
+ {
+  "axis": "場",
   "name": "尼崎",
   "races": 102,
   "fav_win": 0.647,
@@ -298,16 +308,6 @@
   "pick_return": 0.823,
   "bet_races": 24,
   "bet_pnl": -1460
- },
- {
-  "axis": "場",
-  "name": "唐津",
-  "races": 102,
-  "fav_win": 0.657,
-  "pick_hit": 0.294,
-  "pick_return": 0.81,
-  "bet_races": 9,
-  "bet_pnl": -340
  },
  {
   "axis": "場",
