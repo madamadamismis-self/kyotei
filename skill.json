@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2896,
+  "races": 2898,
   "fav_win": 0.567,
   "pick_hit": 0.252,
-  "pick_return": 0.767,
+  "pick_return": 0.766,
   "bet_races": 422,
   "bet_pnl": -11810
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 248,
-  "fav_win": 0.605,
-  "pick_hit": 0.278,
-  "pick_return": 0.837,
+  "races": 250,
+  "fav_win": 0.6,
+  "pick_hit": 0.276,
+  "pick_return": 0.831,
   "bet_races": 46,
   "bet_pnl": -1210
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 683,
-  "fav_win": 0.365,
-  "pick_hit": 0.167,
-  "pick_return": 0.733,
+  "races": 685,
+  "fav_win": 0.364,
+  "pick_hit": 0.166,
+  "pick_return": 0.731,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 326,
-  "fav_win": 0.426,
-  "pick_hit": 0.172,
-  "pick_return": 0.697,
+  "races": 328,
+  "fav_win": 0.424,
+  "pick_hit": 0.171,
+  "pick_return": 0.693,
   "bet_races": 24,
   "bet_pnl": -2660
  },
@@ -182,10 +182,10 @@
  {
   "axis": "場",
   "name": "平和島",
-  "races": 146,
-  "fav_win": 0.486,
-  "pick_hit": 0.164,
-  "pick_return": 0.671,
+  "races": 147,
+  "fav_win": 0.483,
+  "pick_hit": 0.163,
+  "pick_return": 0.667,
   "bet_races": 16,
   "bet_pnl": -1420
  },
@@ -352,10 +352,10 @@
  {
   "axis": "場",
   "name": "徳山",
-  "races": 93,
-  "fav_win": 0.591,
-  "pick_hit": 0.215,
-  "pick_return": 0.55,
+  "races": 94,
+  "fav_win": 0.585,
+  "pick_hit": 0.213,
+  "pick_return": 0.544,
   "bet_races": 14,
   "bet_pnl": 90
  },
