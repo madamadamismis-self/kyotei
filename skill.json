@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2981,
+  "races": 2982,
   "fav_win": 0.566,
   "pick_hit": 0.251,
   "pick_return": 0.768,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 333,
-  "fav_win": 0.589,
-  "pick_hit": 0.261,
-  "pick_return": 0.835,
+  "races": 334,
+  "fav_win": 0.587,
+  "pick_hit": 0.26,
+  "pick_return": 0.833,
   "bet_races": 62,
   "bet_pnl": -1950
  },
@@ -102,10 +102,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 880,
-  "fav_win": 0.514,
+  "races": 881,
+  "fav_win": 0.513,
   "pick_hit": 0.241,
-  "pick_return": 0.77,
+  "pick_return": 0.769,
   "bet_races": 156,
   "bet_pnl": -2700
  },
@@ -122,9 +122,9 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2642,
+  "races": 2643,
   "fav_win": 0.584,
-  "pick_hit": 0.262,
+  "pick_hit": 0.261,
   "pick_return": 0.778,
   "bet_races": 413,
   "bet_pnl": -10140
@@ -212,10 +212,10 @@
  {
   "axis": "場",
   "name": "桐生",
-  "races": 136,
-  "fav_win": 0.463,
-  "pick_hit": 0.206,
-  "pick_return": 0.559,
+  "races": 137,
+  "fav_win": 0.46,
+  "pick_hit": 0.204,
+  "pick_return": 0.555,
   "bet_races": 1,
   "bet_pnl": -100
  },
