@@ -2,12 +2,12 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2927,
+  "races": 2928,
   "fav_win": 0.566,
   "pick_hit": 0.252,
   "pick_return": 0.771,
-  "bet_races": 428,
-  "bet_pnl": -12060
+  "bet_races": 429,
+  "bet_pnl": -12160
  },
  {
   "axis": "使ったモデル",
@@ -22,12 +22,12 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 279,
-  "fav_win": 0.591,
-  "pick_hit": 0.272,
-  "pick_return": 0.877,
-  "bet_races": 52,
-  "bet_pnl": -1460
+  "races": 280,
+  "fav_win": 0.593,
+  "pick_hit": 0.271,
+  "pick_return": 0.874,
+  "bet_races": 53,
+  "bet_pnl": -1560
  },
  {
   "axis": "使ったモデル",
@@ -42,12 +42,12 @@
  {
   "axis": "買った券種",
   "name": "2連複",
-  "races": 158,
-  "fav_win": 0.715,
-  "pick_hit": 0.367,
-  "pick_return": 1.042,
-  "bet_races": 158,
-  "bet_pnl": -3920
+  "races": 159,
+  "fav_win": 0.717,
+  "pick_hit": 0.365,
+  "pick_return": 1.036,
+  "bet_races": 159,
+  "bet_pnl": -4020
  },
  {
   "axis": "買った券種",
@@ -92,12 +92,12 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1368,
+  "races": 1369,
   "fav_win": 0.701,
   "pick_hit": 0.302,
   "pick_return": 0.788,
-  "bet_races": 250,
-  "bet_pnl": -7730
+  "bet_races": 251,
+  "bet_pnl": -7830
  },
  {
   "axis": "本命の強さ",
@@ -122,12 +122,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2594,
+  "races": 2595,
   "fav_win": 0.584,
   "pick_hit": 0.262,
-  "pick_return": 0.78,
-  "bet_races": 403,
-  "bet_pnl": -9650
+  "pick_return": 0.779,
+  "bet_races": 404,
+  "bet_pnl": -9750
  },
  {
   "axis": "本命の枠",
@@ -182,12 +182,12 @@
  {
   "axis": "場",
   "name": "平和島",
-  "races": 150,
-  "fav_win": 0.48,
-  "pick_hit": 0.167,
-  "pick_return": 0.702,
-  "bet_races": 17,
-  "bet_pnl": -1520
+  "races": 151,
+  "fav_win": 0.483,
+  "pick_hit": 0.166,
+  "pick_return": 0.698,
+  "bet_races": 18,
+  "bet_pnl": -1620
  },
  {
   "axis": "場",
