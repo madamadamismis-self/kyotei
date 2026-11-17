@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2915,
-  "fav_win": 0.567,
+  "races": 2918,
+  "fav_win": 0.566,
   "pick_hit": 0.251,
-  "pick_return": 0.766,
+  "pick_return": 0.765,
   "bet_races": 427,
   "bet_pnl": -11960
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 267,
-  "fav_win": 0.599,
-  "pick_hit": 0.27,
-  "pick_return": 0.829,
+  "races": 270,
+  "fav_win": 0.596,
+  "pick_hit": 0.267,
+  "pick_return": 0.819,
   "bet_races": 51,
   "bet_pnl": -1360
  },
@@ -102,8 +102,8 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 861,
-  "fav_win": 0.517,
+  "races": 862,
+  "fav_win": 0.516,
   "pick_hit": 0.239,
   "pick_return": 0.758,
   "bet_races": 150,
@@ -112,20 +112,20 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 688,
+  "races": 690,
   "fav_win": 0.362,
   "pick_hit": 0.167,
-  "pick_return": 0.736,
+  "pick_return": 0.734,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2584,
-  "fav_win": 0.585,
+  "races": 2587,
+  "fav_win": 0.584,
   "pick_hit": 0.262,
-  "pick_return": 0.776,
+  "pick_return": 0.775,
   "bet_races": 402,
   "bet_pnl": -9550
  },
@@ -192,10 +192,10 @@
  {
   "axis": "場",
   "name": "江戸川",
-  "races": 147,
-  "fav_win": 0.497,
-  "pick_hit": 0.19,
-  "pick_return": 0.773,
+  "races": 148,
+  "fav_win": 0.5,
+  "pick_hit": 0.189,
+  "pick_return": 0.768,
   "bet_races": 27,
   "bet_pnl": 1630
  },
@@ -222,10 +222,10 @@
  {
   "axis": "場",
   "name": "宮島",
-  "races": 125,
-  "fav_win": 0.52,
-  "pick_hit": 0.248,
-  "pick_return": 0.736,
+  "races": 126,
+  "fav_win": 0.516,
+  "pick_hit": 0.246,
+  "pick_return": 0.73,
   "bet_races": 21,
   "bet_pnl": -1980
  },
@@ -252,10 +252,10 @@
  {
   "axis": "場",
   "name": "唐津",
-  "races": 115,
-  "fav_win": 0.67,
-  "pick_hit": 0.287,
-  "pick_return": 0.764,
+  "races": 116,
+  "fav_win": 0.664,
+  "pick_hit": 0.284,
+  "pick_return": 0.757,
   "bet_races": 10,
   "bet_pnl": -90
  },
