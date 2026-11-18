@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 2998,
+  "races": 2999,
   "fav_win": 0.566,
   "pick_hit": 0.25,
   "pick_return": 0.766,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 350,
-  "fav_win": 0.586,
-  "pick_hit": 0.254,
-  "pick_return": 0.808,
+  "races": 351,
+  "fav_win": 0.587,
+  "pick_hit": 0.256,
+  "pick_return": 0.811,
   "bet_races": 65,
   "bet_pnl": -2250
  },
@@ -92,9 +92,9 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1404,
-  "fav_win": 0.699,
-  "pick_hit": 0.298,
+  "races": 1405,
+  "fav_win": 0.7,
+  "pick_hit": 0.299,
   "pick_return": 0.778,
   "bet_races": 258,
   "bet_pnl": -8530
@@ -122,7 +122,7 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2659,
+  "races": 2660,
   "fav_win": 0.584,
   "pick_hit": 0.261,
   "pick_return": 0.775,
@@ -312,10 +312,10 @@
  {
   "axis": "場",
   "name": "徳山",
-  "races": 101,
-  "fav_win": 0.574,
-  "pick_hit": 0.228,
-  "pick_return": 0.64,
+  "races": 102,
+  "fav_win": 0.578,
+  "pick_hit": 0.235,
+  "pick_return": 0.652,
   "bet_races": 16,
   "bet_pnl": 90
  },
