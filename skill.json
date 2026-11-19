@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3119,
+  "races": 3120,
   "fav_win": 0.565,
   "pick_hit": 0.253,
   "pick_return": 0.78,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 471,
-  "fav_win": 0.575,
-  "pick_hit": 0.272,
-  "pick_return": 0.895,
+  "races": 472,
+  "fav_win": 0.576,
+  "pick_hit": 0.271,
+  "pick_return": 0.894,
   "bet_races": 76,
   "bet_pnl": -2720
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1448,
+  "races": 1449,
   "fav_win": 0.702,
   "pick_hit": 0.302,
-  "pick_return": 0.786,
+  "pick_return": 0.785,
   "bet_races": 264,
   "bet_pnl": -8400
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2750,
+  "races": 2751,
   "fav_win": 0.587,
-  "pick_hit": 0.263,
-  "pick_return": 0.782,
+  "pick_hit": 0.262,
+  "pick_return": 0.781,
   "bet_races": 426,
   "bet_pnl": -10810
  },
@@ -232,10 +232,10 @@
  {
   "axis": "場",
   "name": "びわこ",
-  "races": 143,
-  "fav_win": 0.594,
-  "pick_hit": 0.238,
-  "pick_return": 0.892,
+  "races": 144,
+  "fav_win": 0.597,
+  "pick_hit": 0.236,
+  "pick_return": 0.885,
   "bet_races": 26,
   "bet_pnl": -430
  },
