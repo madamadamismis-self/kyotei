@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3089,
+  "races": 3091,
   "fav_win": 0.565,
   "pick_hit": 0.251,
-  "pick_return": 0.768,
+  "pick_return": 0.769,
   "bet_races": 448,
   "bet_pnl": -12820
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 441,
-  "fav_win": 0.574,
-  "pick_hit": 0.256,
-  "pick_return": 0.817,
+  "races": 443,
+  "fav_win": 0.573,
+  "pick_hit": 0.257,
+  "pick_return": 0.821,
   "bet_races": 72,
   "bet_pnl": -2220
  },
@@ -102,10 +102,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 903,
+  "races": 905,
   "fav_win": 0.513,
-  "pick_hit": 0.238,
-  "pick_return": 0.757,
+  "pick_hit": 0.239,
+  "pick_return": 0.759,
   "bet_races": 159,
   "bet_pnl": -3000
  },
@@ -122,20 +122,20 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2727,
+  "races": 2728,
   "fav_win": 0.586,
   "pick_hit": 0.261,
-  "pick_return": 0.774,
+  "pick_return": 0.775,
   "bet_races": 422,
   "bet_pnl": -10310
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 362,
-  "fav_win": 0.409,
+  "races": 363,
+  "fav_win": 0.408,
   "pick_hit": 0.174,
-  "pick_return": 0.719,
+  "pick_return": 0.717,
   "bet_races": 26,
   "bet_pnl": -2510
  },
@@ -162,10 +162,10 @@
  {
   "axis": "場",
   "name": "平和島",
-  "races": 167,
-  "fav_win": 0.473,
-  "pick_hit": 0.15,
-  "pick_return": 0.631,
+  "races": 168,
+  "fav_win": 0.476,
+  "pick_hit": 0.155,
+  "pick_return": 0.648,
   "bet_races": 18,
   "bet_pnl": -1620
  },
@@ -301,6 +301,16 @@
  },
  {
   "axis": "場",
+  "name": "戸田",
+  "races": 112,
+  "fav_win": 0.5,
+  "pick_hit": 0.223,
+  "pick_return": 0.909,
+  "bet_races": 4,
+  "bet_pnl": -400
+ },
+ {
+  "axis": "場",
   "name": "浜名湖",
   "races": 111,
   "fav_win": 0.568,
@@ -308,16 +318,6 @@
   "pick_return": 0.638,
   "bet_races": 25,
   "bet_pnl": 530
- },
- {
-  "axis": "場",
-  "name": "戸田",
-  "races": 111,
-  "fav_win": 0.505,
-  "pick_hit": 0.225,
-  "pick_return": 0.917,
-  "bet_races": 4,
-  "bet_pnl": -400
  },
  {
   "axis": "場",
