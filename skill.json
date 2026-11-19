@@ -2,12 +2,12 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3057,
+  "races": 3058,
   "fav_win": 0.566,
-  "pick_hit": 0.252,
+  "pick_hit": 0.251,
   "pick_return": 0.77,
-  "bet_races": 446,
-  "bet_pnl": -12620
+  "bet_races": 447,
+  "bet_pnl": -12720
  },
  {
   "axis": "使ったモデル",
@@ -22,12 +22,12 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 409,
-  "fav_win": 0.579,
-  "pick_hit": 0.264,
-  "pick_return": 0.837,
-  "bet_races": 70,
-  "bet_pnl": -2020
+  "races": 410,
+  "fav_win": 0.58,
+  "pick_hit": 0.263,
+  "pick_return": 0.834,
+  "bet_races": 71,
+  "bet_pnl": -2120
  },
  {
   "axis": "使ったモデル",
@@ -52,12 +52,12 @@
  {
   "axis": "買った券種",
   "name": "2連単",
-  "races": 156,
-  "fav_win": 0.609,
-  "pick_hit": 0.25,
-  "pick_return": 0.629,
-  "bet_races": 156,
-  "bet_pnl": -1520
+  "races": 157,
+  "fav_win": 0.611,
+  "pick_hit": 0.248,
+  "pick_return": 0.625,
+  "bet_races": 157,
+  "bet_pnl": -1620
  },
  {
   "axis": "買った券種",
@@ -102,12 +102,12 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 895,
+  "races": 896,
   "fav_win": 0.512,
   "pick_hit": 0.239,
-  "pick_return": 0.762,
-  "bet_races": 158,
-  "bet_pnl": -2900
+  "pick_return": 0.761,
+  "bet_races": 159,
+  "bet_pnl": -3000
  },
  {
   "axis": "本命の強さ",
@@ -122,12 +122,12 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2706,
+  "races": 2707,
   "fav_win": 0.585,
   "pick_hit": 0.262,
   "pick_return": 0.778,
-  "bet_races": 420,
-  "bet_pnl": -10110
+  "bet_races": 421,
+  "bet_pnl": -10210
  },
  {
   "axis": "本命の枠",
@@ -192,12 +192,12 @@
  {
   "axis": "場",
   "name": "丸亀",
-  "races": 156,
-  "fav_win": 0.545,
-  "pick_hit": 0.244,
-  "pick_return": 0.732,
-  "bet_races": 16,
-  "bet_pnl": 50
+  "races": 157,
+  "fav_win": 0.548,
+  "pick_hit": 0.242,
+  "pick_return": 0.727,
+  "bet_races": 17,
+  "bet_pnl": -50
  },
  {
   "axis": "場",
