@@ -2,9 +2,9 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3154,
-  "fav_win": 0.566,
-  "pick_hit": 0.252,
+  "races": 3156,
+  "fav_win": 0.567,
+  "pick_hit": 0.253,
   "pick_return": 0.778,
   "bet_races": 456,
   "bet_pnl": -13220
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 506,
-  "fav_win": 0.581,
-  "pick_hit": 0.267,
-  "pick_return": 0.871,
+  "races": 508,
+  "fav_win": 0.583,
+  "pick_hit": 0.268,
+  "pick_return": 0.873,
   "bet_races": 80,
   "bet_pnl": -2620
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1462,
+  "races": 1463,
   "fav_win": 0.703,
   "pick_hit": 0.302,
-  "pick_return": 0.786,
+  "pick_return": 0.787,
   "bet_races": 266,
   "bet_pnl": -8600
  },
@@ -112,19 +112,19 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 766,
-  "fav_win": 0.364,
-  "pick_hit": 0.174,
-  "pick_return": 0.78,
+  "races": 767,
+  "fav_win": 0.365,
+  "pick_hit": 0.173,
+  "pick_return": 0.779,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2778,
+  "races": 2779,
   "fav_win": 0.588,
-  "pick_hit": 0.262,
+  "pick_hit": 0.263,
   "pick_return": 0.781,
   "bet_races": 430,
   "bet_pnl": -10710
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 376,
-  "fav_win": 0.404,
+  "races": 377,
+  "fav_win": 0.406,
   "pick_hit": 0.178,
-  "pick_return": 0.757,
+  "pick_return": 0.755,
   "bet_races": 26,
   "bet_pnl": -2510
  },
@@ -222,10 +222,10 @@
  {
   "axis": "場",
   "name": "宮島",
-  "races": 149,
-  "fav_win": 0.53,
-  "pick_hit": 0.275,
-  "pick_return": 0.808,
+  "races": 150,
+  "fav_win": 0.533,
+  "pick_hit": 0.273,
+  "pick_return": 0.802,
   "bet_races": 26,
   "bet_pnl": -2480
  },
@@ -272,10 +272,10 @@
  {
   "axis": "場",
   "name": "徳山",
-  "races": 116,
-  "fav_win": 0.586,
-  "pick_hit": 0.233,
-  "pick_return": 0.631,
+  "races": 117,
+  "fav_win": 0.59,
+  "pick_hit": 0.239,
+  "pick_return": 0.65,
   "bet_races": 16,
   "bet_pnl": 90
  },
