@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3191,
+  "races": 3192,
   "fav_win": 0.567,
   "pick_hit": 0.253,
   "pick_return": 0.779,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 543,
-  "fav_win": 0.584,
+  "races": 544,
+  "fav_win": 0.583,
   "pick_hit": 0.267,
-  "pick_return": 0.874,
+  "pick_return": 0.872,
   "bet_races": 81,
   "bet_pnl": -2720
  },
@@ -92,10 +92,10 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1474,
-  "fav_win": 0.705,
+  "races": 1475,
+  "fav_win": 0.704,
   "pick_hit": 0.302,
-  "pick_return": 0.787,
+  "pick_return": 0.786,
   "bet_races": 266,
   "bet_pnl": -8600
  },
@@ -122,8 +122,8 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2804,
-  "fav_win": 0.59,
+  "races": 2805,
+  "fav_win": 0.589,
   "pick_hit": 0.263,
   "pick_return": 0.782,
   "bet_races": 431,
@@ -151,6 +151,16 @@
  },
  {
   "axis": "場",
+  "name": "平和島",
+  "races": 180,
+  "fav_win": 0.472,
+  "pick_hit": 0.156,
+  "pick_return": 0.647,
+  "bet_races": 20,
+  "bet_pnl": -1920
+ },
+ {
+  "axis": "場",
   "name": "福岡",
   "races": 180,
   "fav_win": 0.533,
@@ -158,16 +168,6 @@
   "pick_return": 0.663,
   "bet_races": 26,
   "bet_pnl": -310
- },
- {
-  "axis": "場",
-  "name": "平和島",
-  "races": 179,
-  "fav_win": 0.475,
-  "pick_hit": 0.156,
-  "pick_return": 0.65,
-  "bet_races": 20,
-  "bet_pnl": -1920
  },
  {
   "axis": "場",
