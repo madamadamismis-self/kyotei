@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3192,
+  "races": 3195,
   "fav_win": 0.567,
-  "pick_hit": 0.253,
-  "pick_return": 0.779,
+  "pick_hit": 0.252,
+  "pick_return": 0.778,
   "bet_races": 457,
   "bet_pnl": -13320
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 544,
-  "fav_win": 0.583,
-  "pick_hit": 0.267,
-  "pick_return": 0.872,
+  "races": 547,
+  "fav_win": 0.581,
+  "pick_hit": 0.265,
+  "pick_return": 0.867,
   "bet_races": 81,
   "bet_pnl": -2720
  },
@@ -102,50 +102,50 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 934,
+  "races": 936,
   "fav_win": 0.519,
-  "pick_hit": 0.241,
-  "pick_return": 0.766,
+  "pick_hit": 0.24,
+  "pick_return": 0.765,
   "bet_races": 164,
   "bet_pnl": -3100
  },
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 783,
+  "races": 784,
   "fav_win": 0.364,
-  "pick_hit": 0.174,
-  "pick_return": 0.781,
+  "pick_hit": 0.173,
+  "pick_return": 0.78,
   "bet_races": 27,
   "bet_pnl": -1620
  },
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2805,
+  "races": 2807,
   "fav_win": 0.589,
   "pick_hit": 0.263,
-  "pick_return": 0.782,
+  "pick_return": 0.781,
   "bet_races": 431,
   "bet_pnl": -10810
  },
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 387,
-  "fav_win": 0.403,
+  "races": 388,
+  "fav_win": 0.405,
   "pick_hit": 0.178,
-  "pick_return": 0.759,
+  "pick_return": 0.757,
   "bet_races": 26,
   "bet_pnl": -2510
  },
  {
   "axis": "場",
   "name": "大村",
-  "races": 201,
-  "fav_win": 0.677,
-  "pick_hit": 0.328,
-  "pick_return": 0.87,
+  "races": 202,
+  "fav_win": 0.673,
+  "pick_hit": 0.327,
+  "pick_return": 0.866,
   "bet_races": 37,
   "bet_pnl": 910
  },
@@ -201,6 +201,16 @@
  },
  {
   "axis": "場",
+  "name": "桐生",
+  "races": 156,
+  "fav_win": 0.468,
+  "pick_hit": 0.212,
+  "pick_return": 0.613,
+  "bet_races": 2,
+  "bet_pnl": -200
+ },
+ {
+  "axis": "場",
   "name": "宮島",
   "races": 155,
   "fav_win": 0.535,
@@ -208,16 +218,6 @@
   "pick_return": 0.794,
   "bet_races": 27,
   "bet_pnl": -2580
- },
- {
-  "axis": "場",
-  "name": "桐生",
-  "races": 155,
-  "fav_win": 0.465,
-  "pick_hit": 0.213,
-  "pick_return": 0.617,
-  "bet_races": 2,
-  "bet_pnl": -200
  },
  {
   "axis": "場",
@@ -252,10 +252,10 @@
  {
   "axis": "場",
   "name": "尼崎",
-  "races": 125,
-  "fav_win": 0.648,
-  "pick_hit": 0.32,
-  "pick_return": 0.875,
+  "races": 126,
+  "fav_win": 0.643,
+  "pick_hit": 0.317,
+  "pick_return": 0.868,
   "bet_races": 30,
   "bet_pnl": -2360
  },
