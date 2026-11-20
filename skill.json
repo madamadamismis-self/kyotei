@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3189,
+  "races": 3190,
   "fav_win": 0.567,
-  "pick_hit": 0.252,
-  "pick_return": 0.778,
+  "pick_hit": 0.253,
+  "pick_return": 0.78,
   "bet_races": 457,
   "bet_pnl": -13320
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 541,
-  "fav_win": 0.586,
-  "pick_hit": 0.266,
-  "pick_return": 0.869,
+  "races": 542,
+  "fav_win": 0.585,
+  "pick_hit": 0.268,
+  "pick_return": 0.875,
   "bet_races": 81,
   "bet_pnl": -2720
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 781,
-  "fav_win": 0.365,
-  "pick_hit": 0.173,
-  "pick_return": 0.777,
+  "races": 782,
+  "fav_win": 0.364,
+  "pick_hit": 0.174,
+  "pick_return": 0.782,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 386,
-  "fav_win": 0.404,
-  "pick_hit": 0.176,
-  "pick_return": 0.749,
+  "races": 387,
+  "fav_win": 0.403,
+  "pick_hit": 0.178,
+  "pick_return": 0.759,
   "bet_races": 26,
   "bet_pnl": -2510
  },
@@ -252,10 +252,10 @@
  {
   "axis": "場",
   "name": "尼崎",
-  "races": 124,
-  "fav_win": 0.653,
-  "pick_hit": 0.315,
-  "pick_return": 0.846,
+  "races": 125,
+  "fav_win": 0.648,
+  "pick_hit": 0.32,
+  "pick_return": 0.875,
   "bet_races": 30,
   "bet_pnl": -2360
  },
