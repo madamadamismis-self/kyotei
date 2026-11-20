@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3158,
-  "fav_win": 0.567,
+  "races": 3161,
+  "fav_win": 0.566,
   "pick_hit": 0.252,
-  "pick_return": 0.778,
+  "pick_return": 0.777,
   "bet_races": 456,
   "bet_pnl": -13220
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 510,
-  "fav_win": 0.584,
-  "pick_hit": 0.267,
-  "pick_return": 0.87,
+  "races": 513,
+  "fav_win": 0.581,
+  "pick_hit": 0.265,
+  "pick_return": 0.865,
   "bet_races": 80,
   "bet_pnl": -2620
  },
@@ -112,10 +112,10 @@
  {
   "axis": "本命の強さ",
   "name": "混戦（45%未満）",
-  "races": 769,
-  "fav_win": 0.367,
-  "pick_hit": 0.173,
-  "pick_return": 0.777,
+  "races": 772,
+  "fav_win": 0.365,
+  "pick_hit": 0.172,
+  "pick_return": 0.774,
   "bet_races": 27,
   "bet_pnl": -1620
  },
@@ -132,10 +132,10 @@
  {
   "axis": "本命の枠",
   "name": "2〜6号艇が本命",
-  "races": 378,
-  "fav_win": 0.407,
-  "pick_hit": 0.177,
-  "pick_return": 0.753,
+  "races": 381,
+  "fav_win": 0.404,
+  "pick_hit": 0.176,
+  "pick_return": 0.747,
   "bet_races": 26,
   "bet_pnl": -2510
  },
@@ -151,6 +151,16 @@
  },
  {
   "axis": "場",
+  "name": "福岡",
+  "races": 175,
+  "fav_win": 0.537,
+  "pick_hit": 0.24,
+  "pick_return": 0.668,
+  "bet_races": 26,
+  "bet_pnl": -310
+ },
+ {
+  "axis": "場",
   "name": "平和島",
   "races": 174,
   "fav_win": 0.471,
@@ -158,16 +168,6 @@
   "pick_return": 0.643,
   "bet_races": 20,
   "bet_pnl": -1920
- },
- {
-  "axis": "場",
-  "name": "福岡",
-  "races": 174,
-  "fav_win": 0.54,
-  "pick_hit": 0.241,
-  "pick_return": 0.672,
-  "bet_races": 26,
-  "bet_pnl": -310
  },
  {
   "axis": "場",
@@ -222,10 +222,10 @@
  {
   "axis": "場",
   "name": "宮島",
-  "races": 150,
-  "fav_win": 0.533,
-  "pick_hit": 0.273,
-  "pick_return": 0.802,
+  "races": 151,
+  "fav_win": 0.53,
+  "pick_hit": 0.272,
+  "pick_return": 0.797,
   "bet_races": 26,
   "bet_pnl": -2480
  },
@@ -242,10 +242,10 @@
  {
   "axis": "場",
   "name": "鳴門",
-  "races": 134,
-  "fav_win": 0.5,
-  "pick_hit": 0.276,
-  "pick_return": 0.989,
+  "races": 135,
+  "fav_win": 0.496,
+  "pick_hit": 0.274,
+  "pick_return": 0.982,
   "bet_races": 9,
   "bet_pnl": -490
  },
