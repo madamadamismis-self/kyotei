@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3303,
+  "races": 3304,
   "fav_win": 0.566,
   "pick_hit": 0.253,
   "pick_return": 0.781,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 655,
-  "fav_win": 0.579,
-  "pick_hit": 0.266,
-  "pick_return": 0.868,
+  "races": 656,
+  "fav_win": 0.578,
+  "pick_hit": 0.265,
+  "pick_return": 0.867,
   "bet_races": 109,
   "bet_pnl": -4370
  },
@@ -102,10 +102,10 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 962,
-  "fav_win": 0.516,
+  "races": 963,
+  "fav_win": 0.515,
   "pick_hit": 0.239,
-  "pick_return": 0.757,
+  "pick_return": 0.756,
   "bet_races": 175,
   "bet_pnl": -3700
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2895,
+  "races": 2896,
   "fav_win": 0.589,
   "pick_hit": 0.264,
-  "pick_return": 0.787,
+  "pick_return": 0.786,
   "bet_races": 455,
   "bet_pnl": -11760
  },
@@ -312,10 +312,10 @@
  {
   "axis": "場",
   "name": "蒲郡",
-  "races": 117,
-  "fav_win": 0.59,
-  "pick_hit": 0.222,
-  "pick_return": 0.764,
+  "races": 118,
+  "fav_win": 0.585,
+  "pick_hit": 0.22,
+  "pick_return": 0.758,
   "bet_races": 14,
   "bet_pnl": 160
  },
