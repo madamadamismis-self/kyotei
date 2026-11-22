@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3323,
+  "races": 3324,
   "fav_win": 0.567,
   "pick_hit": 0.253,
   "pick_return": 0.782,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 675,
-  "fav_win": 0.581,
+  "races": 676,
+  "fav_win": 0.58,
   "pick_hit": 0.268,
-  "pick_return": 0.869,
+  "pick_return": 0.868,
   "bet_races": 112,
   "bet_pnl": -4190
  },
@@ -102,9 +102,9 @@
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 964,
-  "fav_win": 0.515,
-  "pick_hit": 0.239,
+  "races": 965,
+  "fav_win": 0.514,
+  "pick_hit": 0.238,
   "pick_return": 0.755,
   "bet_races": 175,
   "bet_pnl": -3700
@@ -122,7 +122,7 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2915,
+  "races": 2916,
   "fav_win": 0.589,
   "pick_hit": 0.264,
   "pick_return": 0.787,
@@ -242,10 +242,10 @@
  {
   "axis": "場",
   "name": "鳴門",
-  "races": 141,
-  "fav_win": 0.504,
-  "pick_hit": 0.27,
-  "pick_return": 0.962,
+  "races": 142,
+  "fav_win": 0.5,
+  "pick_hit": 0.268,
+  "pick_return": 0.955,
   "bet_races": 9,
   "bet_pnl": -490
  },
