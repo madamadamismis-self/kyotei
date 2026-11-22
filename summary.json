@@ -4,11 +4,11 @@
   "initial": 8340,
   "bankroll": 8000,
   "pnl": -340,
-  "in_play": 0,
+  "in_play": 100,
   "races_total": 168,
-  "races_settled": 164,
-  "races_bet": 45,
+  "races_settled": 166,
+  "races_bet": 46,
   "hits": 9,
-  "updated": "2026-11-22 20:36"
+  "updated": "2026-11-22 20:46"
  }
 ]
