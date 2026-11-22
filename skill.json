@@ -2,10 +2,10 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3412,
+  "races": 3415,
   "fav_win": 0.568,
   "pick_hit": 0.254,
-  "pick_return": 0.785,
+  "pick_return": 0.784,
   "bet_races": 515,
   "bet_pnl": -13500
  },
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 764,
-  "fav_win": 0.584,
-  "pick_hit": 0.271,
-  "pick_return": 0.871,
+  "races": 767,
+  "fav_win": 0.583,
+  "pick_hit": 0.27,
+  "pick_return": 0.867,
   "bet_races": 139,
   "bet_pnl": -2900
  },
@@ -92,20 +92,20 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1581,
-  "fav_win": 0.708,
+  "races": 1582,
+  "fav_win": 0.709,
   "pick_hit": 0.306,
-  "pick_return": 0.795,
+  "pick_return": 0.794,
   "bet_races": 303,
   "bet_pnl": -8570
  },
  {
   "axis": "本命の強さ",
   "name": "普通（45〜60%）",
-  "races": 989,
-  "fav_win": 0.511,
-  "pick_hit": 0.235,
-  "pick_return": 0.742,
+  "races": 991,
+  "fav_win": 0.51,
+  "pick_hit": 0.234,
+  "pick_return": 0.741,
   "bet_races": 185,
   "bet_pnl": -3310
  },
@@ -122,10 +122,10 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 2987,
+  "races": 2990,
   "fav_win": 0.591,
   "pick_hit": 0.265,
-  "pick_return": 0.788,
+  "pick_return": 0.787,
   "bet_races": 482,
   "bet_pnl": -10380
  },
@@ -152,10 +152,10 @@
  {
   "axis": "場",
   "name": "平和島",
-  "races": 197,
-  "fav_win": 0.482,
-  "pick_hit": 0.178,
-  "pick_return": 0.704,
+  "races": 198,
+  "fav_win": 0.48,
+  "pick_hit": 0.177,
+  "pick_return": 0.7,
   "bet_races": 24,
   "bet_pnl": -2520
  },
@@ -202,10 +202,10 @@
  {
   "axis": "場",
   "name": "津",
-  "races": 167,
-  "fav_win": 0.593,
-  "pick_hit": 0.263,
-  "pick_return": 0.782,
+  "races": 168,
+  "fav_win": 0.589,
+  "pick_hit": 0.262,
+  "pick_return": 0.777,
   "bet_races": 33,
   "bet_pnl": -590
  },
@@ -282,10 +282,10 @@
  {
   "axis": "場",
   "name": "三国",
-  "races": 129,
-  "fav_win": 0.496,
-  "pick_hit": 0.225,
-  "pick_return": 0.794,
+  "races": 130,
+  "fav_win": 0.5,
+  "pick_hit": 0.223,
+  "pick_return": 0.787,
   "bet_races": 23,
   "bet_pnl": 410
  },
