@@ -2,7 +2,7 @@
  {
   "axis": "全体",
   "name": "全レース",
-  "races": 3483,
+  "races": 3484,
   "fav_win": 0.57,
   "pick_hit": 0.255,
   "pick_return": 0.785,
@@ -22,10 +22,10 @@
  {
   "axis": "使ったモデル",
   "name": "Fableモデル（11/15〜）",
-  "races": 835,
-  "fav_win": 0.592,
+  "races": 836,
+  "fav_win": 0.591,
   "pick_hit": 0.273,
-  "pick_return": 0.865,
+  "pick_return": 0.864,
   "bet_races": 157,
   "bet_pnl": -4530
  },
@@ -92,8 +92,8 @@
  {
   "axis": "本命の強さ",
   "name": "堅い（本命60%以上）",
-  "races": 1610,
-  "fav_win": 0.709,
+  "races": 1611,
+  "fav_win": 0.708,
   "pick_hit": 0.305,
   "pick_return": 0.791,
   "bet_races": 313,
@@ -122,8 +122,8 @@
  {
   "axis": "本命の枠",
   "name": "1号艇が本命",
-  "races": 3054,
-  "fav_win": 0.593,
+  "races": 3055,
+  "fav_win": 0.592,
   "pick_hit": 0.266,
   "pick_return": 0.788,
   "bet_races": 500,
@@ -332,10 +332,10 @@
  {
   "axis": "場",
   "name": "浜名湖",
-  "races": 111,
-  "fav_win": 0.568,
-  "pick_hit": 0.207,
-  "pick_return": 0.638,
+  "races": 112,
+  "fav_win": 0.562,
+  "pick_hit": 0.205,
+  "pick_return": 0.632,
   "bet_races": 25,
   "bet_pnl": 530
  },
